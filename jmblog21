@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+
+
+</head>
+<body style="background-color:white;">
+Dammit Jim, I’m a Publisher, Not a Lawyer
+			
+
+				Oct 11, 2014
+						6 Comments					
+								James Mathe
+				
+                    GAME PUBLISHING                
+
+									 contracts, copyright, nda, trademark 
+				
+				
+			
+			
+
+			
+				
+
+ 
+The topic of law, contract, liability, and protection comes up over and over. So I’m writing this blog to point people to when they ask in the future. If this is you: “Wow, I’ve got a great idea! I wonder if this could be the next big hit? I should protect it!” — you really need to read this post.
+The summary: In our hobby game market it is not worth the hassle, money, and time to attempt to protect your game, mechanics, or IP beyond some simple free and automatic methods. It is extremely rare that anyone would ever copy your work. Ideas are a dime a dozen and we all have them with little time to realize them. What is marketable and of value is a finished (working &amp; fun) game prototype, not a concept. It’s all in the execution not the idea.
+Remember, in America anyone can sue anyone over anything. So it’s possible for you to be on the receiving end of being bullied and you may find it not worth the effort and money needed to fight it. Just a fact of life in America.
+DISCLAMER
+First, I am not a lawyer and this is not legal advice – but I did have a lawyer, a CPA, a CFO, a small business consultant, and an MBA look this post over and I am giving you business advice. Let me be clear that most of this advice is from the point of view of a US citizen &amp; company and relates to US law. If you’re not in the US, then similar laws/procedures probably still exist in your country but the details may vary.
+BUSINESS ENTITY
+There are several ways to form a company and report your income and pay your taxes. Some are cheap and easy and some costly and require yearly upkeep. Picking the right one can impact whether you run end of year campaigns or not.
+Sole-Proprietor: This is the simplest and cheapest way to start-up a business. You use your Social Security Number (SSN) and simply file under your regular taxes. You however, have no protection against any liability. If you owe someone money they can sue you personally. If there is a law suit due to your game, you’re responsible. This type of business entity is only used if you’re the only one running the business. All profits are fully disbursed each year. These can be setup by yourself and you can file for a “Doing Business As” (DBA) to use an alias (company name) instead of your own (needed to cash checks to another name). Costs &lt; $100.
+General Partnership: This is a way to run a small business with a few partners and not worry about shares and company upkeep. It’s typically created by just an agreement being signed, not a public filing. You and your partner still personally assume all liability and financial debt. All profits are disbursed each year fully and your taxes are filed under your SSN. You should have a lawyer review your agreement. Costs &lt; $300
+Limited Liability Partnership (LLP): This is essentially a general partnership in form, with one important difference. Unlike a general partnership, in which individual partners are liable for the partnership’s debts and obligations, an LLP provides each of its individual partners protection against personal liability for certain partnership liabilities.
+Limited Liability Company (LLC): An LLC is a low maintenance and reasonably cheap way to setup a business to separate you from some of the liability (risk and financial) but it is still not a corporation. It’s also a simple way to get partners (and investors) to share in ownership (and profits) in your company. It does not have shares and profits and liability are split equally unless another agreement exists. It is not a magic shield though, most banks will make you personally guarantee all loans. If you’re sued and you’re the only person working for the company, there will be some spill over of liability if your decisions caused the issues. Income from the business is fully disbursed each year and your income/loss is filed under your personal taxes. For U.S. federal tax purposes, an LLC by default with two or more members is treated as a partnership, and an LLC with one member is treated as a sole proprietorship. It is possible however to “elect” that the LLC be taxed as a corporation. Costs $200-300.
+Corporation (S-Type and C-Type): These are full company entities with stocks and share holders. They are more expensive to setup and require yearly upkeep and filings. In an S-Type corporation the earnings of the company are fully disbursed each year base on the ratio of stock you hold. You then pay taxes on that money under your personal SSN. With a C-Type corporation you can only disperse revenues though salary and dividends (based on the ratio of stock you hold) and any money left in the company at the end of the year is taxed at a business rate. Costs $500-1500 plus yearly fees.
+Costs can vary by state with California being pretty expensive.
+Accounting &amp; Tax:
+I’m also not an accountant, so seek one for professional advice. But here is my general understanding…
+As mentioned above, the type of business or company you form has a baring on how you must pay your taxes. Under a corporation you can also use different forms of approved accounting practices as well as set your Fiscal Year (FY) end to something other then the end of the calendar year. Most corporations just use a calendar FY and most will just use the cash basis accounting method. This means that you book your income and expenses when they occur and thus your profits at the end of the year are just the difference of all incoming money minus all out going money. So, if you run a Kickstarter late in the year and don’t pay the printer till the next FY you will most likely have to pay taxes on all the Kickstarter earnings as profit. If this is all you do for a business, that will greatly harm your personal taxes liability.
+If you’re a sole proprietor or partnership or LLP/LLC you might be facing having to just pay the income taxes on the money earned on Kickstater. One way to offset this is to pre-pay more to the printer/manufacturer and pre-pay for some postage on stamps.com or endicia.com as well as paying any outstanding artists or editor bills before the end of the year.
+With a corporation you can book a liability for the unpaid printer bill and that should help offset the income from Kickstarter.
+Some companies work on an accounting method known as an accrual method. Revenues are recognized when they are earned (rather than when paid). This allows you to pay taxes on the prepayment income from Kickstarter after you provide the final product to your customer and thus just on your actual profits.
+http://www.journalofaccountancy.com/Issues/2001/May/CashOrAccrual.htm
+Sales Tax:
+Most all states have sales tax and you are responsible to pay sales tax when you sell to someone in your own state (even if you sold something online to them). To do this you must apply for a resale certificate and register with your state. It’s pretty easy and only costs like $10 a year. If you make only a few direct sales, you probably only have to file once a year.
+When attending conventions, some states require you to file for a temporary business license or at least some form of paperwork to allow you to pay the local sales taxes for your sales at the convention. You will have to file tax forms for that state and they’ll want to know if you have any inventory stored in that state as well so they can tax you on that.
+IP, COPYRIGHT, TRADEMARKS, PATENTS, &amp; PUBLIC DOMAIN
+These concepts can be confusing but there are very specific places to make use of each type of protection.
+Fiction, characters, storyline are Intellectual Property (IP)
+Text &amp; Rules are Copyright
+Art is Copyright
+Color of the tile and the image on the tile is art and thus Copyright
+Layout &amp; Trade-dress are art and thus Copyright
+Logos are specialized marks require a Trademark
+Form and Function requires a Patent
+Note that you cannot protect your game’s actual mechanics. Well to be more strictly accurate, they can be, but they must be done so in such a specific method that only the exact representation of your work would be protected (a clone). Anyone changing one little aspect of it would not be in violation, though it could go in front of a Judge or Jury to decide (expensive).
+Intellectual Property (IP):
+IP represents creations of the mind, such as inventions; literary and artistic works; designs; and symbols, names and images used. It’s the fiction / theme / story behind your game.
+It is possible to protect a game’s ideas when presenting them to potential publishers, but the methods used (like an NDA) turn away most publishers. It’s also really not necessary.
+If you make a new version of a game that seems legal in every way, it will not stop a lawyer from sending you a Cease and Desist (C&amp;D) letter. Games Workshop is a good example of this. They send out C&amp;D letters when fair use may was probably legitimate. But legal battles are costly, and often a C&amp;D is all it takes to get someone to back down.
+It’s fair to stress that IP is not just for “protection” but it often can become an intangible asset which you can sell or lease to others.
+You may not market the game at all saying it is “like” or “similar” to another game. Remember, this is a small industry and people are not out to steal ideas. You can far better protect your game by making a superior product.
+Copyright Law is always IP Law but not all IP Law is Copyright. It also contains trademarks and patents.
+http://fairuse.stanford.edu/overview/public-domain/welcome/
+Copyright:
+Once a game has been made public, nothing in the copyright law prevents others from developing another game based on similar principles. Copyright protects only the particular (and specific) manner of an author’s expression in literary, artistic, sculpture, or musical form. It is only a requirement that the work be artistic.
+Text you write is copyright automatically when you write it. You simply need to include something like “Copyright 2015, All Rights Reserved” somewhere in the text. There is no requirement to send it in to be registered with any agency. Mailing it to yourself is a useless old wives’ tale and a complete waste of time. The best form of protection you have is to make sure you DO share your work in public places so you have references with a date of your use of your work. Copyright does protect unpublished works but it’s harder to prove a time-line.
+If you do not wish to share your work publicly at this time, you may wish to spend the $35 or so to get a copy registered online at Copyright.gov. The benefit of registering is that it creates a definitive time-line and presumption that ownership of the copyright is as set forth in the registration. In addition, if you registered the copyright on a date earlier than the date of an act of unauthorized copying, or under certain other circumstances set forth in the copyright law, then if you prevail in court against the unauthorized copier, you can be eligible for statutory damages and for recovery of attorney’s fees.
+You can not copyright the mechanics of a game, only the expression thereof. The manual can be copyright but if someone re-wrote your manual in their own words explaining how to play your game (not using any of your art of course), that is not copyright infringement and is perfectly legal.
+Copyright lasts 70 years after the creator’s death (make sure you specify beneficiaries in your will) or can live forever under the ownership of a company.
+A note on “poor man’s copyright” that a lot of people still believe today (even some lawyers apparently). This is an old wive’s tale and does not hold up in today’s world or courts. Here are 3 great articles to back me up on this:
+http://www.copyright.gov/help/faq/faq-general.html
+https://en.wikipedia.org/wiki/Poor_man%27s_copyright
+http://www.snopes.com/legal/postmark.asp
+So please stop spreading this fault advice on the Internet.
+Other general refferencec sites:
+https://www.plolaw.com/plog/2017/2/1/roll-shuffle-and-sue-a-snapshot-of-board-games-and-the-law
+http://boardgamegeek.com/thread/493249/mythbusting-game-design-and-copyright-trademarks-a
+http://www.copyright.gov/
+http://creativecommons.org/
+http://trustrum.com/copyright-myths/
+http://www.snopes.com/legal/postmark.asp
+https://www.copyright.gov/help/faq/faq-duration.html
+ 
+Trademarks:
+Trademarks are normally used to protect a brand or logo. Thematic elements of games can be trademarks such as: character names or even fictional tech terms. Trademarks require you (or a lawyer) to perform due diligence and search databases for possible contentions. Trademarks are therefore not cheap to obtain and you’ll be required to defend it which is also not cheap. You make something Trademarked by simply using the (TM) symbol in commerce (eg. on your box).
+The (TM) symbol implies the use of something as a trademark but has not officially been applied for. The (R) is a symbol that provides notice that the preceding word or symbol is a trademark or service mark that has been registered with a national trademark office. The (SM) symbol is for a service mark. While the actual application for registering a mark is under $300, it’s the fact that you need to pay someone (usually a lawyer) to do a search and the fact that you will need to aggressively protect your mark, that ads a huge amount of costs.
+Trademark rights generally arise out of the exclusive use of that sign in relation to certain products or services, assuming there are no other trademark objections. Trademarks are different than Copyrights as they are all about product/service identification, and potentially never expire if they are kept in use.
+Registered Trademark lasts 10 years from the registration or as long as you use and defend it. Trademark rights are theoretically indefinite but will terminate if the mark is sufficiently diluted by someone else’s uses of it. This is why companies are usually fast to act on sending out C&amp;D letters, they must act or lose the right to use their Trademark.
+You can search for US registered marks here: http://tess2.uspto.gov
+You cannot trademark a shape used in your game, that usually requires a Patent. It’s possible to trademark the “whole” of a product though, like the shape/look of your specialty boxing. Anything that if copied could cause brand confusion is fair game.
+For the hobby game industry and especially for card and board games, your protection is to get your game &amp; name registered at BoardGameGeek.com and not to hide behind TM and NDA and such – but to get it out there and “claim” your space and name.
+http://www.uspto.gov/trademarks/basics/
+https://en.wikipedia.org/wiki/Nominative_use
+https://www.uspto.gov/trademarks-application-process/search-trademark-database
+Picking a Name:
+Usually, a company name only needs to be unique to a particular industry. But as always, nothing is to stop the big boy lawyers from chasing you down. Even if you’ve been using a name for a while (and can prove it), if someone else obtains a Trademark for it (and you didn’t contest at the time), you are probably best off just changing names. They filed before you and have the legal leg up and fighting these things in court is usually not worth the money. Trademarks are not cheap so if they filed for one they probably have the money to defend it. Getting lawyer bills paid for by the other side in most court battles is unusual at best. Only if a lawsuit is proven to be frivolous or malicious do they award such.
+Titles cannot be protected by copyright, only trademarked in the way a title is graphically represented. Titles and names can be trademarked if a company takes the time and money to do so. To challenge someone using the same or similar name, they would have to prove that their using the same name caused brand confusion. Trademarks generally do not transcend industries, but can when judges and/or juries are overly lenient. It is therefore unwise to name your board game after a movie or some such, as you know those production houses have the money to run you through the ringer.
+Using another companies name or logo as long as it property includes their (TM) or (R) is legal under Fair Use laws. Using likenesses of celebrities without permission is not however allowed. Parody is a fine line you can get away with some references under fair use, but you can get yourself into trouble if you’re not careful. Best to speak with a lawyer on this one.
+Patents:
+Patents protect inventions, which for game designers translates into mechanics. Unlike trademarks or copyrights, patents DO have to be registered. In general, if it were a patented game/mechanic that you were concerned about, patents effectively only last about 20 years (from date of filing, if filed after 1995) in the U.S., after that it would be public domain.
+You can’t (or at least will have a difficult time trying to) patent individual mechanics for the reason you can’t trademark a single word. You must patent a very specific collection of mechanics that you call a game. Due to their specific nature, patents are incredibly hard to enforce (a major reason why I warn against doing it), especially on derivative works that don’t copy rules verbatim. Just obtaining the patent in the first can cost well in excess of $5000. Defending it will be much more. This is more profit than almost all of you will ever likely make off a game.
+For example, while it’s arguable that Wizards of the Coast could defend their patent that calls turning a card sideways in a card game “Tapping” – who is going to have the money to fight them on it. So it is best to just avoid the issue and use another word like exhaust.
+You can apply for a provisional patent application (filing fee of about $110) to be able to state the game is “patent pending”. The filer has one year to file a corresponding utility application if desired. So if you really feel you must go down this road, at least try doing this and seeing if your game is a hit before continuing farther.
+http://www.uspto.gov/main/patents.htm
+http://www.uspto.gov/web/offices/pac/mpep/index.htm
+Public Domain &amp; Creative Commons:
+
+Public Domain is a term used for works that are free of any copyright or legal ownership. For example, Cthulhu is in the public domain (as are most of Lovecraft’s works, but not all) which is why we see a lot of liberal use of that in the hobby game industry.
+I am not aware of any official database of what is in the “Public Domain” and free from legal challenges. All books and images published in the United States before 1923 are in the public domain. Works published after 1922, but before 1978 are protected for 95 years from the date of publication. If the work was created, but not published, before 1978, the copyright lasts for the life of the author plus 70 years. All works produced by the US government (including NASA photos) are public domain and can be used for any purpose.
+Creative Commons is a legal agreement which provides a designer or artist to license work to the general public while choosing which rights they desire to keep. For instance, you can say you will allow the public to reproduce your work, but not profit from it or remix it. This is perhaps the best option for Print &amp; Play games.
+https://creativecommons.org
+CONTRACTS, LICENSING, &amp; NDAs
+I wrote up an earlier blog about what to expect as a designer to be in a contract and how to deal with them. You should give that a read if you have not yet.
+http://www.jamesmathe.com/alien-first-contract/
+In the below blog entry I will try to take the Publisher’s perspective on those legal documents.
+Contracts:
+You will want to have similar but slightly different contracts for dealing with your Designer, Editor, Artist, and Graphic Designer. You may also need contracts to setup License Agreements. Most of these documents will include these sections:
+Grant of Rights physical and electronic– covers the ownership of the game when printed in on cardboard but also specifies what happens in the case of an electronic version of the game. Usually, the Publisher will retain all copyrights and trademarks for the game. Also, covers who owns the artwork and what happens if it’s used outside of the game (like T-shirts or a comic)
+Statements &amp; Payments– Indicates when regular reporting and payments are to be made per the rest of the contract and what happens when those dates are missed or if there is a question of the integrity of those numbers.
+Advances, Royalties &amp; Copies– specifies how many free copies are given to the developer and what royalty rate they are paid as well as any advances and how they are applied. Most contracts don’t include advances of any significant amount and free copies are usually limited to a dozen or less. Royalties are typically around 4-6% of the wholesale revenues (what you the publisher receives). Also specifies what payments are made on sub-license deals – which is usually the same rate applied to the actual final amount received by the Publisher.
+Copyright &amp; Rights– Who owns the rights during publication and after the game has been retired. Also contains a protection clause that protects the Publisher from copyright infringements they were not aware of. Usually, the copyright to a game will revert back to the designer (or their heir) when the company folds or enough time has passed where the game is not being published anymore.
+Termination &amp; Bankruptcy– Defines the exit strategy for both parties and what might cause a breach of the contract. What happens to leftover inventory or in the case of liquidation.
+Revisions &amp; Derivatives– Defines if the designer retains first rights of refusal for expansions. Usually, a designer will be given the first chance to make an expansion or a second edition. Details what happens if the brand is used for other products. Usually, the Publisher owns the brand and can do with it as they see fit.
+Assignment– Specifies what happens to the game if the Publisher is purchased by another company. Usually, it will just fully assign the current contract to the company as is.
+Governing Law &amp; Location of Dispute Resolution– If there is ever a problem, what laws govern the actions that can take place and where (what state, country) do people have to file claims.
+Definitions– Just defining any terms used in the contract in more detail. For example, don’t sign something that says NET PROFITS unless it’s fully defined as that could be widely abused.
+As a designer/artist beware the words “work for hire” as these typically mean you’re being paid an hourly rate to do something and get no claims to the final production and get no residuals from it. In such cases, it’s the company that is creating the copyright or IP works, not you. Be aware that if you work for a company in the gaming industry and you design your game during your paid lunch hour (or heaven forbid at your desk), that company could own the rights to your game. On the other hand, from the Publishers point of view, a work for hire agreement keeps the rights much more clear as they are all yours and they do not revert back to the original creator.
+When working with artist contracts make sure you specify the full first rights to the artwork. You do not want them selling you second or non-exclusive rights to artwork that can then be reused elsewhere.
+SAMPLE DESIGNER CONTRACT
+Licensing:
+Licensing agreements are used to allow some other company to print your game in another country/region or language. Typically these specify very specifically where the other publisher is allowed to see the game. Most have a duration in which this can occur and some have a specified number of units that may be produced.
+If you’re already distributed worldwide, then it is best to structure the license agreement by language as you already have exposure in English overseas. If you don’t have easy access to English in Europe then you might wish to grant by region.
+About 3-6% of MSRP or 8-12% of the wholesale receipts would be a typical rate to expect from such an agreement. Unless you’re very comfortable with the other publisher, it is best to at least get an advance payment equal to the whole price of the total first print run. Typically these are paid quarterly but it’s not unusual for them to be paid by the print run.
+Remember when you’re dealing with a License with someone not in the same country that any legal follow will be extremely hard and costly, so only get into bed with people you can trust and have done research on.
+The licensee (new publisher) normally will be responsible for setting up their own printer and paying all the bills to get the game translated and printed. You only supply them with the art and manual and game files.
+SAMPLE LICENSE AGREEMENT
+Non-Disclosure Agreements (NDA):
+This is a document that has the aim to keep people from talking about your game without your permission. These can be used with play-testers, designers or with publishers you submit your game too.
+First, let me say, I don’t care who you are- your ideas are not all that unique. Almost everything has been done before and chances are very high that you are not holding on to something revolutionary. You will only hurt yourself if you try to gag people.
+It is paranoid of you to try to require play-testers to sign these agreements. It’s already hard enough to find these people willing to give you their time for free to help you out. You will create an immensely better game if you let as many people as you can freely play it.
+Second, let me say this on behalf of 99% of all Publishers out there: I will not sign an NDA, and if you require one for me to look at your game…well, no thanks and don’t send me your game.
+There are a few publishers that may have you sign an NDA once they accept your project, but it is rare. Even without an NDA, it’s still in your best interest to make sure you ask before you start talking about a game you submitted to a publisher. It’s now in their hands and they do not want you screwing up their marketing plans.
+LIABILITY &amp; BREACH
+Kickstarter has been trying it’s best to walk the thin line of not having any responsibility yet attempting to put more pressure on you, the project creators, to be liable for delivering a finished product. As the rules are currently, while you’re accepting donations to help make a game, they expect that game to be made and you to deliver rewards as you stated, or offer a refund. If you do anything other (like wasting the money setting up a company and not making a game) you will have some liability and people can sue you. The problem is most people are out &lt; $100 and it’s rarely worth the hassle for them to sue you. Thus, there really isn’t a lot of liability associated with running a Kickstarter as long as you, in good faith, do your best to fulfill the rewards you promised.
+Printing in the USA is expensive and in most cases not even an option if you want your game reasonably priced. So you will be dealing with vendors outside the USA (most likely in China or Europe). The problem is if any of them fail to deliver what you expected, it’s extremely hard for you to recover any money. It is very common for China companies to just slap together a product and call it “Good Enough” – so don’t trust their word. You should always request a proof copy even if you have to pay a couple hundred for that mock-up version. Don’t be afraid to ask them to redo something- they are used to it.
+There are many forms of shipping and some of them leave the liability on your shoulders if things get damaged on the trip over to the USA. Make sure you choose a form of shipping that you’re only responsible for the product after it’s in the USA. Getting a shipper to actually pay on a claim is extremely hard or near impossible. I lost $1000 worth of product do to damage in transit on a ship once and couldn’t do anything about it no matter who I bitched too.
+China is also known for printing rip off versions of games that are successful, so choosing the right partner is important. They have different copyright laws and may not even be breaking any local laws as they steal your products. It’s very rare, but it happens.
+It is also a good idea to look into some liability insurance for your company. If you’re just working along and out of your home it shouldn’t cost much at all to have some umbrella coverage. Wouldn’t hurt to cover your investment in games too if they are sitting in your garage.  Your normal house insurance will not cover the business property.
+Regulation &amp; Safety:
+Your game box will need to have markings that indicate that it is safe for a certain age group. If it has small parts you should put a choking hazard notice on the box. If your game is for 12 years of age or younger, you have more complicated rules to follow from the CPSIA:
+http://www.cpsc.gov/en/regulations-laws–standards/statutes/the-consumer-product-safety-improvement-act/
+https://boardgamegeek.com/blogpost/56400/7-child-safety-testing
+https://industries.ul.com/wp-content/uploads/sites/2/2014/01/InternationalToyPamphlet_12132013_TBLOD_Web.pdf
+Note, it is not as simple as just saying your product is intended for an audience 13 years and older. The totality of the product, it’s packaging, and its marketing can be considered by a Judge to estimate it’s real intended age group.
+You can request your manufacturer to submit the sample of your game for product testing but make sure you get some paper trail on that. I’ve done so before and it was just a waste of money and I got nothing. Better to do it state-side if you’re worried about it. Simple material testing can be done on specific parts for a reasonable price, but it can get costly to test the whole product or to do so in an in-depth manner. Most printers in China know they must meet certain standards to sell to the USA and most achieve that. You can also apply for a waiver / exemption if you’re making less then 7500 units of the product in question and have less than or $1,123,530 gross sales for the previous year – which is pretty much all of us.
+https://www.cpsc.gov/Business–Manufacturing/Testing-Certification/Third-Party-Testinghttps://www.cpsc.gov/Business–Manufacturing/Small-Business-Resources/Small-Batch-Manufacturers-and-Third-Party-
+ 
+To sell in the EU you will need to put the CE symbol on your box with an EU contact address. The letters “CE” are the abbreviation of French phrase “Conformité Européene” which literally means “European Conformity”. The CE Marking is the manufacturer’s declaration that their toy meets the essential requirements of the European Toy Safety Directive (TSD) and that such toys are therefore entitled to free movement throughout the 28 European Union &amp; EFTA member states. Most small publishers will not have an EU address to use, though some distributors have offered to help out with that. So at the least, you should still include the CE symbol so that customs will not hold on to your product during import. By putting the CE symbol on your packaging you are self-verifying that you are following the rules they set forth. I have heard (haven’t verified) that if you list your product for ages 14+ you can avoid being labeled a “toy” and avoid having to deal with the CE process.
+http://www.ce-marking.org/
+Many other countries have their own safety standard regulations, but the EU and USA have about the strongest. Some oddities also exist like Australia has some regulations about wood and if your game has a fumigation certificate it can get through customs easier.
+ 
+OTHER RESOURCES
+ 
+Child Safety Testing and what it means for board games.
+
+Lesson #7 – Child Safety Testing
+
+Court rules in favor of cloned tabletop game – No protection under US copyright law
+
+ 
+To Patent or Not to Patent
+
+ 
+
+
+
+ 
+			
+			
+	
+	
+			
+
+	
+	
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Kim on October 13, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Thanks so much for the epic detail here James. I don’t think I’ve yet seen such a good round up.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Jason Kotzur-Yang on October 13, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Great article, James. Thanks so much for putting it together. The only thing that threw me through a loop was the CSPIA stuff. Is it your recommendation to aim at an audience of 13+ to avoid those requirements? Or can you informally self-certify, like with CE?
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on October 13, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Yes we always make games for 13+ to avoid the additional hassles. I suppose there isn’t much hassle/issue with a strictly cards only game, but when it comes to a board game with many materials and sized bits, you can have serious problems. As I mentioned though you can’t make a game that is obviously played and marketed to a younger group and just label it 13+ cause a judge will decide the real age group and you’re bound by that.
+
+                        
+                    
+                    
+
+
+                
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Zac Wood on June 5, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Thanks for this article, it is truly a wonderful resource to the inexperienced like myself.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Mateusz Rakowski on June 7, 2016
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Thank you James for your article. 
+I know there are in EU different 3rd parties (in different countries) offering such a safety certificate. If I remember correctly it does’t have to be that expensive. However, when designing a game for children you have to carefully choose the materials you gonna use for production – choose those which will easily pass the testing and lower the cost of the certificate! I know some Polish manufactures get their certificates abroad because it’s cheaper. If I remember correctly Czech Republic is quite cheap, however it was 8-9 years ago, so don’t take my word on that, and maybe I messed up something.
+I think some manufactures in EU are helping publisher with such a certificate! It’s worth asking!
+I’ll double check everything!
+James, is the safety certificate for younger players from EU valid in US and other non-EU countries?
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Chris Astley on October 29, 2017
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Thankyou for sharing your insights &amp; wisdom.
+For free too!
+Very rare to get good advise where you feel your questions have been answered and you learn mote than you thought you would.
+Fantastic job, greatly appreciated.
+
+                        
+                    
+                    
+
+
+                
+	
+		Leave a Reply Cancel reply			
+				 
+
+ 
+ 
+  oneall.api.plugins.social_login.build('oneall_social_login_providers_4485454', {
+   'providers': ['facebook','twitter','google','linkedin'], 
+   'callback_uri': (window.location.href + ((window.location.href.split('?')[1] ? '&amp;amp;': '?') + "oa_social_login_source=comments")), 
+   'css_theme_uri': 'http://public.oneallcdn.com/css/api/socialize/themes/wordpress/default.css' 
+  });
+ Your email address will not be published. Required fields are marked *Comment Name * 
+Email * 
+Website 
+
+
+
+
+      
+  
+  
+
+
+CAPTCHA Code *
+
+
+			
+			
+	
+
+
+		
+</body>
+</html>

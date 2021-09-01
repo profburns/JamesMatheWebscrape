@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+
+
+</head>
+<body style="background-color:white;">
+Story of The 3 Little Pledge Managers
+			
+
+				Mar 23, 2018
+						7 Comments					
+								James Mathe
+				
+                    KICKSTARTER ADVICE                
+
+				
+				
+			
+			
+
+			
+				
+A pledge manager (PM) is a type of shopping cart and survey website that will help you manage your backer’s rewards after your crowdfunding campaign has completed. Not only will it help you deal with the logistics, tracking orders, inventory counts, address changes, and getting your backers to fill out their survey/cart properly so you know what specific color/size/etc item to send them. They also have many other features that can help you upsell your backers or get them to purchase add-on items.  A PM isn’t required and I don’t even use them for all my campaigns; they probably don’t make much sense for a campaign with less than 200 backers.
+Those that would get the most use out of a PM are:
+Publishers looking to maximize profits/sales from offering older products as well as upselling add-ons.
+Newer publishers that may not have a lot of technical ability to track all the backers properly.
+Publishers that don’t have their own shopping cart to take orders after your KS campaign has completed.
+Campaigns with complicated choices to be made for each reward level (color/size choices, buying multiple items to add up to your total pledge, etc).
+Campaigns that wish to charge shipping after Kickstarter.
+Some features that make your life easier if you use a Pledge Manager:
+You can have the PM send reminders to those who have not yet completed their survey/order.
+Allows you to parse out specific data and categories of backers beyond the reward levels.
+Allows Backers to keep their addresses updated in case they move.
+Gives you flexible export options to reduce the amount of work you must do with the data before uploading to a shipper.
+Lets you count your overall inventory needs by regions to make sure you ship the right number of pallets.
+Helps you reclaim any backers that had failed payments at Kickstarter and upgrade the $1 backers.
+Handle multiple-wave and partial shipping of multiple products and rewards.
+Helps you deliver digital goods automatically.
+Reduce the amount of customer support message you have to directly deal with as most will handle the initial response.
+I’ve now completed over 20 Kickstarter projects and I have made use of a pledge manager on about half of them. In every case that I’ve used a Pledge Manager, I was able to more than make back the costs of the platform. On average you can expect 10-20% additional sales post-campaign so if you don’t use a PM you should still set up some sort of pre-order cart system for customers to use. PM’s can also help a lot with backers on a budget as they can just pledge $1 this month, but in the following months be encouraged to upgrade their reward level.
+I have mainly made use of these three pledge managers: BackerKit, CrowdOx, and PledgeManager. They are all decent platforms and they all have their strengths and weaknesses. I will discuss each of them and some of my recent experience (2016-2017) below, so you may pick the one that may work best for you and your project. Keep in mind that I’m a known blogger and community manager so these PMs know of me and probably went out of their way to make sure things went as smoothly as possible for me personally. So your mileage may vary. Note that some basic features of a PM I may not touch on here as all 3 have these things and are considered par for the course (like allowing backers to switch reward levels and pay the difference). I tried to mainly talk about things that differentiated the three.
+One trend I noticed in my recent use of these services, was the movement away from allowing me to do what I want when I want. These PM’s have you request them to send out the survey invites, you have to request someone to help you send a mailing, you sometimes have to request them to review your work before you can use it. I get that they want to help the new creators, but there are plenty of us who are experienced and don’t need to be delayed hours or even a days to get a mailing out or a print a report or export specific data. So make sure you plan ahead when you want things to happen as there seemed to always be some delay in getting them to actually happen.
+ 
+BackerKit
+https://www.backerkit.com/
+I was told that BackerKit is more expensive because of all the support they provide you (and handle for you) and the fact that their software is very comprehensive, that they have a higher overhead than their competitors. For the most part, I did see you get what you pay for, but not all of it is needed by everyone.  I do, however, take exception to them charging of a % of the money you earned in Kickstarter – they had little to do with that and the resources you will use is mostly based on backer count not total $ raised. I guess it depends on knowing roughly what level you’re planning to fund at – which isn’t always possible.
+They offer some free but mostly paid marketing. They promoted my campaign in their newsletter but that had little effect on my campaign – I got only a couple backers from it as did another campaign I spoke with.  Best if you learn how to do Facebook ads correctly on your own.
+Setup is pretty simple as it even has some automated wizards to generate products based on your rewards. Kind of cool, but in my case, I had multiple items per reward and couldn’t make use of that tool. I added all my own products/SKUs and then associated them with the reward levels. Initial setup also a nice checklist system to make sure you covered all the bases. They have a pretty straightforward interface and it wasn’t hard to add special shipping or restrict items based on reward levels. You could also add product SKU weights and such for helping charge shipping later and to fill in customs forms.
+As with most the other PMs (so I’m not picking on BK only here) I was not able to add an item that can only be ordered from a specific region. I have limited quantities of older stuff in the UK warehouse and most of my products come to the USA. Since I ship worldwide only from the UK I can only sell a specific number of an add-on stored there. To do this I’m forced to use a separate SKU and/or extremely high shipping costs to prevent people from ordering the add-on from the wrong source. I’m surprised that I’m the only one concerned about this sort of thing since I would think that many of my peers are using multiple warehouses around the world and need the ability to have inventory counts (and sales limits) in each region. BackerKit does, however, have nice features to export your inventory by region which can help with planning.
+Surveys (emails to tell people to log in and add their address and use the cart) were easy enough to set up.  If you have 500 or more backers, BK requires you to send your survey out to a 5% selection of each reward tier before allowing you to later send it out to everyone. Again, another forced precaution/delay that can slow your planning down. Unlike the other PMs, BackerKit did have a nice count summary page for questions asked in the survey – so if you were looking for poll data or marketing info, it was easy to digest on their site without having to manually aggregate the data. The survey questions, while having some advanced features to modify the reward item, fails to allow for a simple checkbox (multiple answers) questions to be asked. All questions must be a radio (single answer) which I found irritating.
+We had a bit of an issue with the post-campaign cart when dealing with people who backed the no reward ($1) level. Since we don’t ask for addresses from non-reward it doesn’t have their address (BK claim KS doesn’t provide it) when they add items to their cart – but BackerKit for some reason is showing a high estimated shipping rate. So several people were freaking out and didn’t go any further and also posted comments mad on the campaign page. If they put their address in on the next page it shows the correct (which I set) shipping. This was going to cost us some orders if we didn’t do something quickly. My Rep came up with a decent fix, by adding a question to the survey for the non-reward backers to have them confirm they understand the shipping would be off till they enter their address. So just be aware of this issue if you plan to upsell a lot of non-reward backers.
+While it looks like they have an online support chat, it really turned out to be a knowledge base query followed by a sending of a message to your personal point of contact. So it can take hours or a day for your rep to get back to you and they may not be the person most technically able to answer your question.  BackerKit and the other PMs all suffered from the need to hire more people and the need to properly train that staff, so I kept bumping into reps (on each service) that really didn’t answer my questions correctly. I guess we have to write that off as growing pains for all the PMs.
+Setting up the pre-order store was simple and even allows for some advanced features such as a global pre-order shipping fee add-on. This is useful since most of our campaigns offer a discount to shipping built into each pledge – but if you’re supporting late-backers this is one thing you can charge a little bit extra on so that people don’t get used to just waiting to the pledge manager to back.
+BackerKit is probably the best at handling post-campaign shipping charges to backers. I personally don’t recommend charging your shipping after the campaign in most cases, but in some cases, it can make sense and it buffers you from any price hikes from the postal service. Though backers do get irritated when being charged a second time and it adds hassles having to chase that down too. Though, the few campaigns that did use this feature, that I spoke with, said that wasn’t much of a problem.
+I was pleased with BK’s ability to handle a special issue I had. I was able to edit an existing backer and add a product not normally offered and then adjust their balance with a deduction.
+As of writing this, I have not done my final shipping or even a wave of add-on shipping through the current campaign on BackerKit, so I’ll update this if I run into any issues when I do. I have done exports for shipping with BK several times several years ago and things went fine then.
+The support department handles the front end and payment support for you so you don’t get as many direct messages. You’re able to leave them an FAQ and other info to reference. Though they limit that to 500 contacts (after which they charge $1 each) that should be way more than enough for most campaigns. They also support integration with your own help desk software which is pretty advanced.
+Unlike the other two PMs that I discuss below, BackerKit batches up charges and doesn’t charge the backer (pay you) the amount of the add-ons until you trigger a charge event. I like to send my add-ons in waves so I have to create a “segment” and force a charge processing just for them and this is kind of annoying and adds customer confusion. Plus you need to make sure you give it a day or two to process and remember to warn your backers first.
+You can print postage from right inside BackerKit which is a plus for people who may not use a service like Endicia.com, ShipStation.com, or Stamps.com for their label printing.  I didn’t use this feature so I haven’t anything I can say about it.
+BackerKit has a unique and very powerful feature called Segments. This allows you to create batch parsings of your data and then to apply actions to those batches of backers. This is very useful for finding all backers that need X and live in Y and then going back and flagging them all as shipped or whatever you want to do with them. You have complete flexibility on the segment filters which allow you to make as many as you like to have the data manageable – or to even drive your packing of packages of like types. You can also perform some batch actions on a segment. So if you’re doing your own fulfillment this feature will come in real handy. That said, getting their support to provide any custom data formats was not as easy as on the other PMs (one creator said they just said no to their requests). You may have to massage that data in a worksheet after downloading. Segments can be very helpful if you plan to use an email marketing system to communicate different messages to different segments. While other PMs can work with you to create specialized exports per your requests, BackerKit puts more tools in your hands to configure and export your data yourself, making it easier to do more frequent, specialized communications if needed.
+Since I will be using split-shipping to fulfillment centers I need to know SKU sales counts by country/region.   Luckily, their segmentation system allowed me to filter by USA, EU, and then do the math for OTHER countries. Unlike CrowdOx there was no “International” or non-USA region option. Still kind of annoying that there isn’t just a simple built in way to dump SKU counts by region on a screen report.
+When editing a backer’s entry I did not see a way to mark a backer who has not entered the survey as just shipped or complete. The $3 Print &amp; Play reward people for my campaign do no need to be dealt with or bothered at some point so I wanted to just mark them completed. You can’t even LOCK their order down. I also didn’t see a way to mark a segment as shipped / completed.
+Note that if you use BackerKit’s 3% of your Kickstarter funding up front and 0% (well 3% for Stripe fees) on the back end plan and then choose to charge shipping after the Kickstarter, this is a way around allowing either KS or BK to take a share of the actual shipping costs paid later. Remember, if you charge shipping inside KS they are taking 5% of that. BK is the only service with such a pricing structure so in some cases this may change your value proposition from the chart listed at the bottom of this blog.
+Summary: Expensive. Charges a % of your KS campaign. Flexible payment plans. Mature platform with many options and reports. Useful data segmenting system. Provides some marketing assistance (mostly paid).
+Costs: $99-300 setup, 2% funding plus 8% add-ons / 3% funding plus 3% add-ons. They offer other plans so check them out. Adding a banner to your campaign page will save you $25. Uses Stripe &amp; Paypal. Joining the IGA can save you the setup fee.
+ 
+CrowdOx
+https://crowdox.com/
+CrowdOx is moderately priced, but I feel you get what you pay for. Setup was a bit harder to manage then I expected it to be. They handle the non-backer storefront as it’s own section which meant I had to duplicate a lot of product entries, though they do have a duplicate product tool to help out. Restricting items to certain rewards is possible but didn’t seem super obvious how to set that up. In the end, I got it all my needs into the setup and it was very flexible.
+CrowdOx asks you to set them up as a collaborator on Kickstarter (View Pledges, Surveys, and Tracking) which is a bit odd. I was told it’s just their method of importing the data live and keeping it accurate. PledgeManager askes for a CVS file and no such access and BackerKit does something else fancy as it pre-dates the API Kickstarter has created. But if you’re not comfortable with that, you can certainly ask them for more details. They do not get access to anything they are not going to get anyway so I don’t think this request is unreasonable.
+As with all the PMs I’ve used, sending out survey requests (emails to tell people to log in and add their address and use the cart) went pretty smoothly. I had to have them resend multiple times, as usual, some people just never seem to respond. At least some of the PMs do this automatically. One issue I did have was I had set up a survey to ask question of my backers when I told everyone to come and fill out their data… but, because of the slightly confusing way things are linked together I had failed to link the questions to the reward level and so no one got asked the questions initially. If you’re not used to a system of associating objects with other objects to get the results you need, the CrowdOx system is a bit confusing.
+This linking method and duel product setup for non-backers, in the end, worked out well as I could charge a different amount for late backers coming to back. I could offer different or limited items to them only. Very flexible if setup right.
+Using their system (tucked under Stats / Product Stats ) that allowed for many flexible filters I was able to easily figure out how much of a product I needed in each fulfillment location.
+They have a great online chat support system that logs messages and allows file transfer and as far as I could tell any support person would reply to you within a day unless you catch them online. Once out of 5 times I had live support, probably cause I don’t work standard hours, so most of the time it took hours or a day to get a reply. They seemed willing to make custom code changes and reports for me though that takes several days. So I was forced to work with support to get a report I wanted – a simple picking list (one order per page, SKU plus quantity on each line). They did it quickly and I got my report. When I tried to request the same report a second time a couple months later it seemed it was never really saved anywhere and after a week I gave up waiting for it and did it manually.
+For my campaigns, I usually ship add-ons in waves as I have preexisting games I sell to backers to get them right away. As such, I wanted to export my data so that only the things I need to ship were in the report and then the product would be flagged (leaving the order partial shipped). CrowdOx was able to handle this, but the exports are not very useful and the flagging required the support departments help.  Having them flip the add-on line items to “shipped” was a slow and manual process. You can manually mark a whole order as shipped but that’s not what I was after. But it got done in the end. So plan ahead as some things make take a while to get.
+As I shipped add-ons out early some backer accounts were “locked down” – but then a backer couldn’t edit their address (as they moved) – I also couldn’t edit it. So I had to unlock the order and edit it myself. But then there is no manual way to lock the order again and I had to put in a request to support to do it. Seems like changing the order status to locked should be an option for an admin to do on his own.
+Using the filters for exporting data I was able to pretty easily get my final shipping exports. In fact, they did add an “International” region which allowed me to export all non-USA orders separately which was great and exactly what I needed. I did find a flaw (bug?) that may be fixed when you read this, but exporting the “USA” Country then left out the “US Territories” (like Porto Rico) from both lists. If you try to export “USA” + “US Territories” it shows nothing. So I had to export US Territories on their own. I still had to edit my Excel files as they don’t directly support GamesQuest who I use for fulfillment. They told me they are willing to add custom formats for your fulfillment provider if you give them a little time to do so, though I know of one company they didn’t offer this too.
+ 
+CrowdOx allows for charging shipping per product and per pledge level, for the creators who want to do this all post campaign – I didn’t use that feature. Recently they added support for in-person / convention pickup option. Personally, I recommend you don’t offer this in your campaign as it typically causes problems and ends up costing you money. People don’t always make it to your booth in time and then you have to ask the backer for shipping later (some even expect you to still ship it for free). Sometimes your supply isn’t enough or didn’t make it in time and then you’re disappointing a bunch of people and have to cover shipping.
+The process for issuing a refund and canceling an order was not really straightforward and you had to figure out where/how they paid and go to that site and also issue the actual refund if they didn’t use CrowdOx and PayPal. Another nice thing I stumbled on was that I needed to add the total amount of refunds to our accounting report and they actually have a filter for showing all orders that have refunds associated with them. That was very useful in getting that total.
+When I went to export the backer questions things did not go smoothly. The first time it was a blank file even though the filter browser said 2100 backers selected. Then I removed all filters from the data and it did export but it had multiple lines in the CVS file for the same person asking the same question. So there was obviously some bug here. I had to manually count each answer up. They should provide some sort of count by answer chosen for radio button questions to make surveys much easier to digest. To their credit though, the support dept did actually send me such a report after telling them of the problem.
+So the day came to finally export my data and after figuring out they call the initial reward levels “Configurations”, I managed to get my data segmented for the USA and NON-USA exports. You got to be careful though as the post-Kickstarter backers throw a wrench into your filtering of data as they don’t ever belong to a specific reward level.  There didn’t seem to be a way to just output 1 line per set of data so I could ship in using our assembly line methods – so I was forced to delete all the duplicate lines manually and then import addresses into Endicia for shipping. But the multiple lines were used/needed for GameQuest’s new ShipQuest system and that upload went well after editing to the right the columns in the file.
+Since I had to manually sort my data for shipping and any time you have to do something manual that introduces a place for errors – I made an error. All my retailers bought additional cases of the product after the initial pledges. These were apparently not combined to make the correct quantity total in the worksheet. My guess was they appeared on 2 lines with different names so I didn’t catch that. So they didn’t get merged and I ended up having to find these mistakes and fix them after the fact.
+I needed to print some invoices for our retailers and a couple foreign deliveries so they can use it for customs handling. Though there is an “Print Invoice” option under the actual order, it’s the same crummy report as before with no SKU and no PRICE information on it. That’s not an invoice people. Hopefully, they’ll update that soon.
+Summary: Solid flexible platform. Nice instant support chat. Good system for post-backing. Special reports or data requests can take a few days. Filter system is simple yet flexible.
+Costs: Free setup, $0.50 / 1.00 per backer, 8% / 13% add-ons. $399 min. Uses PayPal. Joining the IGA can get you a discount.
+ 
+PledgeManager
+http://www.pledgemanager.com/
+I was a bit surprised when I was given several Excel worksheets to setup my reward and product data in.  The admin interface for PledgeManager is just not done yet and is lacking a lot of things like the initial setup. They also require that all data to them and from them (reports/exports) use Dropbox. Once I figured out how they wanted me to give them the data though, it wasn’t hard or long before it was imported and usable. The SKUs in the system were editable from within once loaded. One of the campaigns I used this PM for was my foam dice where you needed to allow people to pick different colors of items to “Spend” their reward. While this doesn’t sound that complicated, 3 years ago none of the PMs could handle it.
+I added a bunch of different products to the system but some I wanted to only sell in the USA – this is another issue for most PMs as they just tell you to put an obnoxious shipping price on the non-USA backers. But that just pisses people off when they attempt to order and see super high shipping, so I don’t like to do that. While all the PMs allow for reward level specific add-ons, I found it nearly impossible to work with region-specific add-ons. PledgeManager though, was able and willing to add this feature for me and now everyone can use this. Far as I know they are the only ones to support regional product.
+PledgeManager has a good team and is pretty quick to getting back to inquiries and requests. Though, since they are a small team they can get backlogged, especially since their system requires their input into most decisions.
+Using their counts by SKU section it was a bit of a pain to figure out how many items to send where for fulfillment as I had to figure out all my EU on my own from exporting and importing into a worksheet. Would be nice if it had region support for this tool. It also lumped all items on the same report so I had to massage the data a bit to get my answers.
+The staff was willing to make custom exports for me which is great, but I found that most any report I wanted was a custom export. I always had to bother staff anytime I wanted a report, so you need to give them some time to do that. In my case, it was almost always done within a day.  They are also willing to make custom code changes to support your needs as they are still a newer software base.
+Locking and unlocking an order was simple and straightforward as was switching its status – not need to contact anyone. The process for issuing a refund and canceling or adjusting the total was also pretty simple here.
+Summary: Low cost and gets the job done. You’ll need a little technical know-how and some patience. Small support team – they can get backlogged. Lacks any decent admin interface for setting up your own products. Manually report/export request which can take a day or two.
+Costs: Free setup, $0.25 / backer ($150 min), 8% add-ons. Uses Stripe.
+ 
+COST EXAMPLES:
+PM
+CAMPAIGN SIZE
+SETUP
+BASE COST
+ADDON COST
+TOTAL COST
+BK
+$10k, 500 backer, $0 add-ons
+$99-$199
+$200 / $300
+$0
+$299 / $399 + (up to $201)
+CO
+$10k, 500 backer, $0 add-ons
+$0
+$225 / $500
+$0
+$399 (min) / $500
+PM
+$10k, 500 backer, $0 add-ons
+$0
+$125
+$0
+$150 (min)
+BK
+$80k, 1200 backer, $8000 add-ons
+$99-300
+$1600 /$2400
+$640 / $240
+$2339/ $2739 + (up to $201)
+CO
+$80k, 1200 backer, $8000 add-ons
+$0
+$600 / $1200
+$640 / $1040
+$1220 / $2240
+PM
+$80k, 1200 backer, $8000 add-ons
+$0
+$300
+$640
+$940
+BK
+$150k, 2200 backer, $30,000 add-ons
+$99-300
+$3000 / $4500
+$2400 / $900
+$5499 / $5499 + (up to $201)
+CO
+$150k, 2200 backer, $30,000 add-ons
+$0
+$1100 / $2200
+$3900 / $2400
+$5000 / 4600
+PM
+$150k, 2200 backer, $30,000 add-ons
+$0
+$550
+$2400
+$2950
+Note these are just the published (or standard rates) for these companies. You should always negotiate if you have special needs.
+ 
+Other Pledge Managers
+Heres is a list of pledge managers that include some that I haven’t used:
+
+NAMEFEESCOSTADD-ON COSTNOTES
+CrowdOx$399 Min Charge$.50-$1.00 / backer5%-10% + 3%Comprehensive software with many features. Nice live chat. Willing to custom make reports. Setup/admin interface is solid though a tad confusing at times.
+PledgeManagerFREE$0.25 / backer5% + 3%Good pricing. Lacks setup interface. Admin interface is minimal making you have to manually request some things. Small staff.
+Game Found???
+BackerKit$99-299 setup2% / 3% funding5% / 0% + 3%Flexable fee structures. Comprehensive software. Great customer service. Some marketing options.
+Fluent PM???
+Jet BackerFREEFREE4% + 3%Newer system with limited functionality and support.
+ 
+OTHER RECOMMENDED READING:
+Don’t forget to join our Facebook Group for more interactive discussions:https://www.facebook.com/groups/TabletopKickstarters/
+ 
+Backers Decide: Kickstarter Survey vs. Third-Party Pledge Manager
+
+
+ 
+			
+			
+	
+	
+			
+
+	
+	
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Jasen Lakic on August 11, 2018
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Wow, such a useful post! 
+Big thumbs up James
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Kristopher on November 15, 2018
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Hello James,
+I was wondering the 8% for Add-Ons in Pledge Manager…  Does that cover Shipping Charges???  I’m trying to run an ultra-small (but viral) KS with a $3,750 USD Funding Goal.  Obviously this doesn’t include shipping costs…  Which when you ramp-up in terms of backers is a LARGER chunk than Production/Artwork/Fees (about 40%).  So I don’t want shipping to be part of the Funding Goal… I will be up-front with Shipping Fees (approximations) but I want them to be charged in Pledge Manager.  The question for you is then do the Pledge Manager “Add-Ons” fee of 8% get added to that cost???  Or is shipping covered with the $0.25/backer fee?
+It’s not clear to me if SHIPPING COSTS are an “Add-Ons” or included with the Backer Fee ($0.25/backer)…  Could you offer your insight???
+Thank you!
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on November 17, 2018
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Yes, pledge managers are a great way to charge shipping post campaign. But remember you’re not saving all that much as the PMs will charge you the 3% processing fee at least and most will charge the 5% fee too, some plans don’t though. So some treat it as “add-on” and some handling it special, ask the company. The nice thing about charging later is that if the rates change you’re not screwed over. I was shipping small $10 card games once when USPS decided to raise the foreign first class fee by $5 right after my campaign ended. I lost $1500 on that.  But charging for shipping later can also backfire when people complain it’s too much or never pay at all and you’re stuck dealing with all those hassles.
+
+                        
+                    
+                    
+
+
+                
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Renee on January 3, 2019
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Thanks for this amazing information. I’m trying to figure out if PledgeManager has a pre-order store.  I would think it does, but can you confirm this? Also, can you explain the add-on cost breakdown? For example, I’m not sure what is meant by “8% / 13% add-ons.”
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on January 5, 2019
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Yeah, all PM that I know of have a pre-order store – kind of the point of them.  As for the breakdowns in price, the / just means they have multiple pricing plans that you can choose the one that works best for your campaign.
+
+                        
+                    
+                    
+
+
+                
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Vegard Farstad on April 25, 2019
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            According to https://gamefound.com/info/about#/, Gamefound have zero fees. So far, so good.
+If anybody that reads this has experience with how their systems and support work, please comment below.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Vegard Farstad on April 26, 2019
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Kickstash is another new pledge manager:https://www.kickstash.com
+Costs (from their FAQ):
+At Kickstash, every creator is charged the same $500 USD set-up fee for each campaign they import. Once you’re up and running, we charge an 8% fee + Stripe transaction fees for each transaction you process with a backer. For campaigns with more than 3,000 backers, feel free to contact us to discuss alternate transaction rates.
+
+                        
+                    
+                    
+
+
+                
+	
+		Leave a Reply Cancel reply			
+				 
+
+ 
+ 
+  oneall.api.plugins.social_login.build('oneall_social_login_providers_6215830', {
+   'providers': ['facebook','twitter','google','linkedin'], 
+   'callback_uri': (window.location.href + ((window.location.href.split('?')[1] ? '&amp;amp;': '?') + "oa_social_login_source=comments")), 
+   'css_theme_uri': 'http://public.oneallcdn.com/css/api/socialize/themes/wordpress/default.css' 
+  });
+ Your email address will not be published. Required fields are marked *Comment Name * 
+Email * 
+Website 
+
+
+
+
+      
+  
+  
+
+
+CAPTCHA Code *
+
+
+			
+			
+	
+
+
+		
+</body>
+</html>

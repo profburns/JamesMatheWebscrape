@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+
+
+</head>
+<body style="background-color:white;">
+Game Design for Dummies
+			
+
+				Jul 16, 2013
+						14 Comments					
+								James Mathe
+				
+                    GAME DESIGN                
+
+				
+				
+			
+			
+
+			
+				An audio interpretation by Andrew Voigt.
+
+ 
+So, last weekend I drove to Ann Arbor, MI with Matt Loomis and Dustin Oakley where we attended Protospiel.org. We helped a lot of designers with their games. On the way home we complained a bit about how at this and other events and in our Facebook forums we seem to repeatedly have to point out some very basic design no-no’s. So, instead of just complaining we decided to use the 6 hour drive back to at least jot down some notes to make a post. Now most of this applies specifically (and some only) to our hobby game industry. Matt was kind enough to write up the original draft and he has this also posted at his blog at his site: http://themetagame.blogspot.com/. I have added some more of my personal opinions below in italics…
+Common Feedback for Board Game Designers
+Designing board and card games is harder than it looks. Just like everything else it life, it gets a lot easier after making a ton of mistakes and learning from them. Here are some of the most common things you’ll fear from veterans in the industry that we can all easily avoid with a little bit of work.
+
+Visit BoardGameGeek.com
+If you are new to the industry, welcome! There are some great resources that have been around for many years to assist in your journey. Yes the site may be a little confusing and difficult to navigate at first, but consider the time spent a cost of entry to the hobby. It’s worth it! They have a great designer forum.
+No Roll and Move
+Unless you have a time machine and are travelling back to the 1980’s to design games before anyone knew better, don’t use a single roll of the die to determine movement in your game. It’s frustrating to the players and uninspiring design. More importantly most people in the hobby game industry market will not buy your game if they see this.
+No Paper Money
+This is simply a component that publishers and players alike just don’t like. Don’t use it! Paper wears out quickly and to do a good design you must spend a LOT of time on the art. Much better if you just use cardboard chips.
+No Collectible Card Games
+This is a distribution model that just is not feasible for any new game these days. If you want to try and make a CCG, you’ll need that time machine again and go back to the 1990’s to get in on the fad when it was cool. We can’t all be as lucky as Richard Garfield. Many larger companies have tried and failed, so use the method of releasing static expansions instead.
+Don’t use classic game parts
+These are not attractive to publishers or to players. If your game uses a chess board, or chess pieces, or a standard deck of cards, this is not a marketable game because people already own these items. A game that combines chess and rummy is not a new game; it’s a variant of existing games. It’s also a big red flag to a publisher that you are not a well versed designer.
+A game is different from a simulation
+The best games almost always use abstract representations to signify events. It certainly takes more than 1 wood and 1 brick to build a road in real life, but it works just fine in Settlers of Catan. Don’t bog your game down trying to simulate reality.
+Do not create game effects that cause other players to lose their turns (literally or functionally)
+This style of design is what I like to call a “negative play experience”. This isn’t fun for the person that it happens to, it’s only mildly interesting for the person doing it, and the game is never better because it exists.
+Avoid linear dice rolls when possible
+If you want to balance a random event to happen a certain percentage of the time, try using two or more dice to force the dice into a bell curved average instead of a linear one. The sample size of dice in single play of a game is usually not enough to realize the true average of a linear roll. Also don’t allow the dice to determine critical game swinging effects. No one (not even the Ameritrash crowd) likes a game’s outcome on the last turn to be decided by a die roll.
+Perception is just as important as reality.
+Just because a mechanism or event may be balanced on paper, or “fair” in the long run, doesn’t change the perception of the event when it takes place. Just think about the old saying of “You only get one chance to make a first impression.” A little imbalance is OK!
+Avoid player elimination
+In general, you should avoid player elimination from your game. If it is truly an essential or unavoidable part of your game, ensure that the time between a player being eliminated and the end of the game is not longer than 15 minutes.
+Games need to be able to be taught
+Hour long explanations are generally not something that anyone looks forward to when trying to learn a new game. Think about what you can do to assist in teaching the game to new players by lowering the initial number of decisions or complexity, and ramping it up as the game continues.
+Don’t have players make decisions that will impact the outcome of the game before they play.
+Trying to add variety to a game with a card draft is cool, but you need to have a way to play the game outside of using a draft as so people can learn it. Even if it’s just playing with a random set for a few rounds before restarting the game with a draft, make sure this is an option for players, as well as the preferred way to teach your game. One way to know this is a problem with your game is if the game play or player’s play style radically changes on the second or third play through.
+If players start the game taking the same actions every game, start the game from there.
+Unless this is a requirement for the learning curve, you should always start the game from the position where players begin to make unique decisions from each other. Many times a player will see that there are obvious strategic first steps to take in the beginning of the game. So why make them all go through the motions. Start the game with those steps already taken.
+Make decisions meaningful / Remove non-decisions
+If I can always spend $1 to gain 1 point or I can spend $2 to gain 3 points, I will never spend $1 unless I am forced to. This is a non-decision, and does not make the game more interesting if the player understands basic math. Though with an increased number of players this discrepancy is decreased.
+Balance is not always linear
+If you balanced your game in a spreadsheet, it is either going to be cleverly hidden, or transparently obvious. Be aware about what side of the coin your game is falling into, and make sure that the balance is transparent to everyone who isn’t looking for it. Also keep in mind that a curved balance line is generally more interesting than a straight balance line. Spend 1 to gain 1, Spend 2 to gain 2, Spend 3 to gain 3 is linear balance. Spend 1 to gain 1, Spend 2 to gain 3, Spend 3 to gain 5 is a curved balance.
+Stealing from another player is twice as effective
+Stealing 3 from another player is better than gaining 5 from the game. The first gives a net gain of 6 whereas the second is a net gain of 5. Understanding this simple concept will prevent hours of wasted play time to fix simple imbalances.
+Edge cases will happen, if they ruin the experience, they need to be fixed
+If there is a 1 in 100 chance that one player will get absolutely screwed, or one player will completely dominate the others, then it will happen sometimes. If it happens sometimes, it’s going to happen to a player playing your game for the first time, and they will have a terrible experience. You need to fix these issues.
+If you need to make an exception to a rule, question the inclusion of the rule
+If a player is always able to do something 98% of the time, but 2% of the time they are prevented by an arbitrary rule, this was likely an attempt to balance something. Make sure that the situation that caused the 2% is really necessary for the game. Try never to add a special case rule at all. Make things work logically and intuitively, otherwise people will be wasting time in the manual.
+Sometimes less is more
+Games are not always about what you have included into the game, most often the game is about giving the feeling of an event in the simplest way possible. The best games are the ones that express great complexity through simplicity. Once you think you have your game working, try to trim the fat more. Study which parts of the game people are enjoying and which parts seem to be just maintenance.
+Graphic design is more important than people like to admit
+Players need to be able to process the information in your game to be able to understand it and play it. Anything you can do visually to assist with that goal is going to make everyone’s life much easier. Still do not spend money on it as that’s the publishers duty.
+Consider publication costs in your designs
+Everything has a cost. Games with 900 cards, 50 custom dice, or 400 wooden cubes are going to be expensive to produce. When designing, think about ways to simplify your designs to remove components that don’t need to be there. Typical games in our industry have typical expected prices and value points: $10-15 for a deck of cards, $20-30 for a party game, $25-35 for a family game, $45-55 for a meaty gamers game. $75 for a game with custom plastic bits/minis, and $95-100 for a mega game with tons of cool miniatures.
+Be able to accept feedback
+This should go without saying, but it’s easy to be offended (or get defensive about your baby) by someone who is giving you feedback about your game. Make sure that you separate yourself from the situation and look at the comments objectively. They are trying to help, and they are talking about the game, not about you as a person. Sure if you hear something once you that you don’t agree with you can file it away, but if you hear something more then once you best take it seriously.
+Get outside feedback
+Your playtest group or your family are fine for early version of your game. But you should be putting your game in front of strangers. People down at the game store. People at conventions. You should try to help them as little as possible and find out where the rough spots are. Your family and friends will never give you honest input. You should also consider having input and ranking of the game done on paper as people tend to be more honest when filling out a form after game play.
+Know your audience
+Games are not designed for everyone to love. Do not try to please everyone and make fixes based on every playtesters comments. Know the audience you are trying to please and target them. Don’t try to make a game for everyone.
+ 
+An aside…
+As a side note specific to our hobby game industry, the publishers and the players are not interested in games that have as their selling point being “educational”. Publishers are not interested in games that use a specific intellectual property (IP). Many (but not all) are not seeking abstract or word games, so they will be much harder to find a publisher for. Limiting your game to only 2 players or not handling 4 players will also greatly reduce your chances.
+If you’re looking for a publisher your game has to be something special, it has to have a spark, it needs a catch, it needs to be fun. Too many people make a game and it works and it’s just another game. We don’t need more mediocre games in our industry, we need greatness. Sadly, these days most games are played only 1-3 times before they get shelved forever.
+We hope this document helps you design smart and not waste your time.
+– James Mathe, Matt Loomis and Dustin Oakley
+Card &amp; Board Game Design Guild
+ALSO READ THIS:
+So you want to be a tabletop game designer…
+
+MORE READING:
+http://sedjtroll.blogspot.com/2017/08/nuggets-of-game-design-advice-from.html
+A Brief Crash Course on Game Design
+http://boardgamegeek.com/thread/1018707/brief-crash-course-game-design-issues-processes-an
+Game Design Process: Applying Feedback
+http://boardsandbarley.com/2013/07/18/game-design-process-applying-feedback/
+Core Game Design Articles by Level 99:
+http://www.lvl99games.com/?page_id=2718
+Game Balancing by Seth Jaffee
+http://sedjtroll.blogspot.com/2014/01/balancing-game-elements.html
+ 
+SOME RESOURCES:
+Free Game Design Icons
+http://game-icons.net/
+How to design a board or card game: 10 prototyping tips
+http://goplaylisten.wordpress.com/2014/09/17/how-to-design-a-board-or-card-game-10-prototyping-tips/
+Tabletop Game Playtesters Guild
+https://www.facebook.com/groups/BoardGamePlaytestersGuild/
+Any Dice Probability Calculator
+http://www.anydice.com/
+Board Game Terms: Explainedhttp://www.dicetower.com/game-video/more-board-game-terms-explained
+
+ 
+ 
+
+			
+			
+	
+	
+			
+
+	
+	
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Philip Migas on July 18, 2013
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            James,
+Great article. Thank you for trying to help designers become better at their craft. I have used every point on your paper as criticism during at least one review at my design club. Here would by my additions:
+–	A good game needs to do one thing really well. Any additional mechanics that don’t support the one main mechanic should probably be removed.
+–	If you don’t have a prototype, you don’t have a game design. Don’t think about designing a game. Be active and put together a game prototype.
+–	Don’t make a game that would be a better computer game. First person shooter board game are a good example. The board game will never be better than the digital version.
+–	Don’t just make a player move several turns just to get to the important parts of the game. An example would be when a player needs to move several turns to a spot where they then draws a card. Usually best solution is to remove the board entirely. Apples to Apples is the best example of how this improved the game. Yes Apples to Apples (Oranges) had a board when it was first pitched to the publisher.
+–	Have cards or dice, not both. Cards and dice are randomizers. You don’t need both.
+–	The more control you can give a player during a random event the better. Try to let the players react to the random event. Don’t let the random event determine the success of the player.
+–	Rules are made to be broken when you learn how to break the rule correctly. Most people don’t learn.
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Jerome Labelle on March 19, 2018
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Lol “Most people don’t learn.” you are right tho 😛
+
+                        
+                    
+                    
+
+
+                
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on July 18, 2013
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Some more discussion can be found here: http://www.boardgamegeek.com/thread/1007443/board-game-design-for-dummies
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Derek on July 20, 2013
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            @Phillip. “Have cards or dice, not both. Cards and dice are randomizers. You don’t need both.”
+Great example of a game that breaks this rule is ROMA.  
+And I think that’s true of many of these guidelines – they can be broken if you have game that justifies doing so…
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Alex Churchill on July 24, 2013
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            A friend offers a few more fundamental tips along the same lines:
+Decide the answer to the big three questions: What is this game about? What do the players do? Why is that more fun than doing something else? Decide what your game is about, then make it do that.
+It’s not enough to have your mechanic be fun when it works; see what happens when it fails.
+If you have different denominations of things, whether money or something else, then make them look different!
+And more generally, the more different things are, the more different they should look. Different colours, plus consideration for colourblind players.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Lewis Pulsipher on July 24, 2013
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            I’ve encountered many people, usually younger ones, who think that preferences don’t change, that people are just the same as they’ve always been.  Yet the guideline about losing a turn highlights a change in attitudes.  40 years ago, losing a turn occasionally was expected, it was part of the strategy, now it’s anathema.  I think this may show how much games today have become more about doing than about thinking (video games being the obvious example).  You can think while you’ve lost a turn, but you can’t do.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Tom Jolly on July 24, 2013
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Excellent list; it sums up pretty much everything I’ve ever learned about game design. One thing I might add to it (which you sort-of covered) is, when given a choice of losing things and gaining things in your design, always select “gaining”. Players always have a sense of accomplishment while gaining stuff, and dissatisfaction while losing stuff. I discovered this while designing Drakon, where the original object was to discard all your tiles in hand, versus gaining gold coins as you moved around. Totally changed the feel of the game without substantially affecting the mechanics or play.
+There are likely exceptions to every rule here, but they are fairly unique (for example, killing players off early vs Werewolves of Miller’s Hollow and its ilk), but overall, this is a very solid set of design rules. Thanks for posting!
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Jason Miller on March 18, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            You have quickly become one of my “go-to” sources for game design and advice, and I cannot thank you enough for these columns.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Michael Murphy on March 18, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            “If your game uses a chess board, or chess pieces, or a standard deck of cards, this is not a marketable game because people already own these items”
+Ahh…this is all about board game design and not “game design”..because with this statement, my response would be “You’ve obviously never played TSATF before, have you?”
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Laurence Parsons on March 19, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            When you say “Stealing from another player is twice as effective”, this is only true of two-player games. It may not be the case in multiplayer. Stealing 3 from the player in last place might not be as good as gaining 5 from the game; but this in turn might not be as good as stealing 3 from the leading player. In multiplayer games, this becomes a real decision again.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Francisco Cabreja on July 26, 2017
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            As a game design novice, I found curious this comment in Game Design for Dummies:
+No Roll and Move
+Unless you have a time machine and are travelling back to the 1980’s to design games before anyone knew better, don’t use a single roll of the die to determine movement in your game. It’s frustrating to the players and uninspiring design. More importantly most people in the hobby game industry market will not buy your game if they see this.
+The game I am designing needs to move players similar to Monopoly via the roll of dice to determine where they will land to meet their individual fate. If I don’t use dice what other random format is possible?
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on July 26, 2017
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            First off, you should really rethink why you have random movement. Is it a kids game? Why are there no choices in your movement?  If you must have random movement then maybe try something like a deck of cards where they have a hand to play movement cards from or an action point system to spend points on movement. Something to help give the player agency. No one likes winning or losing or being screwed over by just random dice rolls. A move to land on a space to take an action also makes for a VERY boring of a game.
+
+                        
+                    
+                    
+
+
+                
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Jerome Labelle on March 19, 2018
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Wow this is awesome! Great advice I wish I read of this earlier but better late than ever.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									David Stockdale on July 2, 2018
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            This is really helpful and what I appreciate about how it’s written is that it doesn’t try to put people off giving game design a go.  It’s so draining when industry insiders hit you with constant negatives ‘oh there’s no money in it’ or ‘everyone thinks they can design a game’ etc but this article is so positive while still being realistic about what is required.
+I think it’s cool to encourage new people into game design and thanks for posting this.
+
+                        
+                    
+                    
+
+
+                
+	
+		Leave a Reply Cancel reply			
+				 
+
+ 
+ 
+  oneall.api.plugins.social_login.build('oneall_social_login_providers_6488877', {
+   'providers': ['facebook','twitter','google','linkedin'], 
+   'callback_uri': (window.location.href + ((window.location.href.split('?')[1] ? '&amp;amp;': '?') + "oa_social_login_source=comments")), 
+   'css_theme_uri': 'http://public.oneallcdn.com/css/api/socialize/themes/wordpress/default.css' 
+  });
+ Your email address will not be published. Required fields are marked *Comment Name * 
+Email * 
+Website 
+
+
+
+
+      
+  
+  
+
+
+CAPTCHA Code *
+
+
+			
+			
+	
+
+
+		
+</body>
+</html>

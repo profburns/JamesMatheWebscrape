@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+
+
+</head>
+<body style="background-color:white;">
+Success or Failure – Timing is Everything
+			
+
+				Aug 18, 2015
+						11 Comments					
+								James Mathe
+				
+                    KICKSTARTER ADVICE                
+
+				
+				
+			
+			
+
+			
+				
+
+ 
+“Failure is the opportunity to begin again, more intelligently.” – Henry Ford
+I recently had the chance to churn through some data of recently Tabletop Game Kickstarter Campaigns thanks to Roger Hicks – though I worked with my own dataset, he has put up a new Kickstarter Research Tool for all to use. I took at look at 3600 Kickstarter Campaigns over the last 24 months in an attempt to get some empirical data to back up the Kickstarter best practices we teach. Specifically, how your chances of success or failure change based on when you launch and how much activity your campaign has.
+Keep in mind because a lot of us preach a certain way of doing things, that many people who do their research and are trying very hard to be successful are the ones that typically follow these rules. Thus, some of the data is self-predicting. Meaning that if you are smart enough to run a great campaign because you learned a lot from our group discussions, in all likelihood you’d do what we all think is the best path to success. The totally clueless and lazy (and crazy) campaign creators don’t do this research and end up doing things differently and because they didn’t do enough prep work, they fail for many more reasons. Anyway, just keep that in mind when looking over the data results.
+First up on the chopping block is our old favorite: What day should I launch?
+Below is a chart showing each day of the week and the percentage of campaigns that have succeeded or failed when launching on that day of the week. Our best practices state that launching between Tuesday and Thursday is the best as people are going to be around their computers and have time to review your campaign. Friday evening and Saturdays are the worst because people are out of the home or doing things with others so they are not at their computers to pledge on your campaign. The chart does show a bias to campaigns launched during the week being successful and those launching on the weekend having higher chances of failure. But it’s not a HUGE margin (less than 10% of a swing) and thus it’s more important that you run a decent campaign and launch then it is the day you choose to do so. That said, it’s pretty clear that Tuesday launches tend to have the least failures and the most successes while Saturday launches tend to be the highest chance of failure and least chance of success.
+
+While this chart above concentrates on starting dates… if you look at some daily charts on Kicktraq.com of the larger campaigns during the mid-campaign, you’ll see an obvious rise and fall of total backers by day of the week. With Friday and Saturday being the low point and Wednesday being the high point. More people back during the week than weekends.
+ 
+Next let’s look into: What month should I launch?
+This next charge shows mostly what I would have expected except for one oddity… We typically preach that you should launch when you’re most prepared to do a good job, but aside from that, launching when there is not a holiday or large convention going on is best. People away with family or saving/spending money for/at a convention do not spend tons on Kickstarter. People at conventions don’t have time or desire to look up your campaign. People on vacation or with family do not find the time to get on the computer. So, summertime is slow and June (beginning of major con season) being the worst. July and August did a bit better than I would have expected considering GenCon is in August and I’d think people would be saving more for the event. Campaigns launched in January through March did pretty awesome in general, though the longer you wait the higher the chance you have of a failure. But the big surprise for me on this chart is December. We preach not to bother in December and the fact is that December had less than half the normal number of campaigns run. I’m wondering if yet again, our preaching of staying away from December for tax and holiday reasons causes only the strong to attempt and thus have a higher success rate than one would expect. There are also fewer campaigns competing for people’s money during this time. So, I guess this means a well-executed campaign can still succeed in December.
+
+
+Best practices for running a great campaign say to keep the backers engaged. This is truly the case as we look at these two charts. The more updates your campaign has (within reason) the greater your chance of success. In fact, if you have over 5 updates your chance of success (or more specifically the indication of having good communication with your backers) is huge. Yet the chance of failure for campaigns with 1 or less updates is incredible. Of course the lazy campaign managers that don’t do updates are probably also the same ones who were lazy with their best practices research so take this with a grain of salt.
+
+As with updates, the number of comments on your campaign page is a strong indicator of success (or failure). You should be engaging your backers as much as possible and the more you do the greater your chance of success. Of course, an interesting campaign is going to get more comments than a dull or poorly done one, so I’m not positive this is really proof of anything other then good practices.
+ 
+Campaign duration is an interesting beast to analyze. On the chart below I chopped off the extremes other than a few important data points: 7-day, 10-day, and 60-day. All the rest of the day ranges had over a dozen campaigns for each. The vast majority of campaigns were run right around 30 days in length (28-35 being the largest segment).  As you can see from this chart, the shorter campaigns seem to have the highest chances of success and the least chance of failure. This is actually a pretty significant swing, but it may be attributed to the only people willing to risk short campaigns are those who already know what they are doing and have a large fan base to mobilize. Campaigns lasting 7-17 days seem to have a good run of it. Those between 21-26 days seem for whatever reason to have had a low failure rate. There is a significant chance of failure happening for 38, 44, 46-day campaigns. I suspect the highest failure rate of 60-day campaigns is just another case of ill-informed people choosing the maximum funding duration allowed.
+
+ 
+Lastly, I looked at campaigns that overfunded. While I’m not sure what there is to gain from knowing this information – and plenty of campaigns abuse this metric by setting unrealistic funding goals – here is the data on overfunded campaigns nevertheless. Here is the data never-the-less. It would appear that most over-funded campaigns are happening in the March-April time frame. There is a spike in over-funded campaigns during January and one in June as well, but I don’t really understand the June one as it’s a bad month overall for launching a campaign. Is it that only the brave venture forth during that month and so they are only the strong with large followings? Hard to say. It does seem clear however, that if you want to go big, you should avoid July, September, and December.
+
+
+Now as I said, the above data was aggregated by me using SQL and the dataset Roger provided me. But you can use his own Kickstarter Research Tools website to pull out interesting information. For example, Daniel Zayas from The Meeple Mechanic pointed out these two charts that show a significant increase in failure rates of campaigns that include Early Bird rewards (discounts for pledging the first few days). Since the successful funding rate stated about the same, EB rewards don’t seem to help a campaign, yet they do seem to increase the number of failures/cancels overall (though only slightly 34.8% vs 35.2%). I think the data clearly shows that Early Birds do not help your chances of success. You fund with or without them at about the same rates. Since they are hated by many and cost you money, they should not be used.
+
+ 
+He has also come up with this interesting query showing total backers by month on Kickstarter as well as total funding. The number of individual backers skyrocketed from 2014 to 2015, but dollars raised from those backers followed a much lower trajectory. This means backers as a whole are spending less money per project, we are just not seeing the repercussions because the backer count almost doubled in 2015.
+ 
+
+UPDATE (added 9/3/2015):
+Looking at 4284 campaigns from 2013 till mid 2015, there is a failure rate of 40.3% for non-USA currency and 35.6% for USA. So, running a campaign in something other than USD seems to have a small impact on success rates.
+
+Well, that about wraps up this post. I hope you learned something or at least have a better idea of when and how to launch your campaign. Below are some more reading links:
+Kickstarter Stats 101: Does the Weekday I Launch Matter?http://gotgeniusgames.com/kickstarter-stats-101-does-the-weekday-i-launch-matter/
+Don’t forget to join our Facebook Group for more interactive discussions:https://www.facebook.com/groups/TabletopKickstarters/
+Written by: James Mathe
+
+ 
+
+			
+			
+	
+	
+			
+
+	
+	
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									John WS Marvin on August 18, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            I’m lost on the “Early Bird” Pie charts. They seem to show the opposite of what you said as far as failures. I wonder if the charts were flipped? (I followed the link but didn’t see this post.)
+And the success rate is essentially the same.
+I bet I’m missing something!
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on August 18, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            If you add the failed + canceled then you see about a 1% increase in unsuccessful campaigns that use Early Birds. But the success rates are about the same. In short, Early Birds do not do much if anything for a campaign – yet they annoy people and cost you money, so why do them.
+
+                        
+                    
+                    
+
+
+                
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Steve Russell on August 21, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            This is awesome data James thanks.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Chris Raba on September 7, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Thanks for the information!
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Kelsey King on September 8, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            The campaign duration section reminded me of a conversation I had with my sister, who’s involved in non-profit funding. She attended a seminar about crowdfunding, and the experts there said that 21-28 days for a campaign on Kickstarter is ideal, because you hit the “oh no the campaign is ending” a lot sooner.
+Of course, I do still think that shorter campaigns only make sense if you know you have the backing for it.
+Thanks for the info!
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Özgür Deniz Önür on May 5, 2016
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Thanks for the great post. 
+I noticed something interesting. Although June looks like a bad month looking at your success rate graph, the data collected by Daniel shows that both the number of backers and the money they spent are higher  in June than the neighboring months. So a significant number of people are spending good money on June. What do you think is the reason of the discrepancy here. Is it because your data is only from board games whereas data accumulated by Daniel comes from all kinds of projects?
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on May 5, 2016
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            I think all the data I showed was in the Tabletop categories. So June having OVERFUNDING doesn’t mean it was high amount of funding overall. Just means the ones that did things right had probably less competition and thus funded extra well. Hard to say though with this data.
+
+                        
+                    
+                    
+
+
+                
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Suzanne on May 24, 2016
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Have you noticed anything different in Kickstarter data (regarding timing of launch, rewards, or any other factor that comes to mind) for children’s tabletop games?  Perhaps they just follow the same statistical patterns as the regular tabletop games.  You may not be looking at the kids’ games specifically, but just in case you noticed something, I thought I would ask.
+Also wanted to say thanks for the info you post
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Janice on June 12, 2016
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Really interesting read. Thanks for collating the data! 🙂
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									hiTeRus on October 25, 2016
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Your data and analytics are awesome! Thanks for sharing with everyone
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Jer Lanska on May 16, 2017
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            James,
+Thank you for all the time you took putting this info together, it is very valuable! I appreciate it.
+
+                        
+                    
+                    
+
+
+                
+	
+		Leave a Reply Cancel reply			
+				 
+
+ 
+ 
+  oneall.api.plugins.social_login.build('oneall_social_login_providers_3456653', {
+   'providers': ['facebook','twitter','google','linkedin'], 
+   'callback_uri': (window.location.href + ((window.location.href.split('?')[1] ? '&amp;amp;': '?') + "oa_social_login_source=comments")), 
+   'css_theme_uri': 'http://public.oneallcdn.com/css/api/socialize/themes/wordpress/default.css' 
+  });
+ Your email address will not be published. Required fields are marked *Comment Name * 
+Email * 
+Website 
+
+
+
+
+      
+  
+  
+
+
+CAPTCHA Code *
+
+
+			
+			
+	
+
+
+		
+</body>
+</html>

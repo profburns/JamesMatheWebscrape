@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+
+
+</head>
+<body style="background-color:white;">
+Success without fulfillment is the ultimate failure
+			
+
+				Nov 09, 2018
+						6 Comments					
+								James Mathe
+				
+                    GAME PUBLISHING, KICKSTARTER ADVICE                
+
+				
+				
+			
+			
+
+			
+				
+While the title of this article has a double meaning, we’re going to discuss actual game fulfillment logistics here. I know you’re super excited by this sexy topic… so let’s just get into it.
+SHIPPING FROM MANUFACTURER
+Once your game is produced it’s time to get it to your customers/backers and then hopefully into distribution.
+The most typical way of offering “friendly” (duty-free) shipping to backers was to split your inventory at the manufacturer and send some to the EU and then the rest to the USA. This allowed you to pay the import duties based on the production costs of the product and thus much fewer fees and taxes were paid – but you paid them instead of the backers so make sure you account for that extra expense.
+With smaller packages, it used to be feasible to have them sent directly from China to your USA backers using a fulfillment company in China. Recent changes to treaties make direct shipping to customers much less economical for USA companies. We had a very old (and unfair) treaty that subsidised all packages sent to USA addresses from China. For example, they could send a 3-pound package from China to Chicago for $10 or so. This has recently changed and so services that were offering very cheap direct to customer shipping from China may not be able to offer decent solutions anymore, so double check any old reference documents dating before Nov 1, 2018.
+To import goods into your country you’ll need someone to help you and get a bond to cover liability. This is complicated and confusing, but in the end, it really only requires you to pick a company to work with (I’ve listed some listed below) and sign a POA (Power of Attorney) document to allow someone to help you. You will be asked which kind of shipping you want and again there are a lot of confusing acronyms to deal with… but common types of shipping you would most likely use are:
+DDP – Delivered Duty Paid: The manufacturer will get the games from their warehouse to your warehouse and pay all the fees and duty in the process. Obviously, they’ll just bill you that in the end but it is the most hands-off way of dealing with shipping. Problem is that you’re not in control over who they use or the markups involved. Good choice for your first game as you’ll only have to tell your manufacturer to deliver to your door and not have to hire anyone or deal with the industry lingo.
+FOB origin – Free On Board: This means the manufacturer will pay for everything up until it’s on a ship. You (actually your import agent) will then have to take over from there and arrange for local unloading, customs, train and trucking transport.
+EXW – Ex Works: This is where you have your local agent arrange everything for you. Usually the cheapest option but you need to trust the company you’re working with IS actually a cheap and trustworthy option that communicates at the level you need.  You will have to pay the shipping and duties and trucking and all that to this 3rd party helping you out.
+CONTAINERS: There are 40′ and 20′ containers of which you can book either the whole thing (FCL) or a partial amount of them (LFL) and you can load them with your products on pallets or not. Be careful, without pallets you can get more in the container but will risk more damage and there will be a higher fee for unloading at its destination.
+EXTRA COSTS: There are some extra costs that can come into play here with shipping your goods to your warehouse that you need to be aware of just in case. First of all customs agents at the ports can hold your product for any reason at all and perform varying levels of security checks on your products. Anything from just opening a couple boxes to x-raying your whole container. This can run from $300 – $6000 of extra costs that you have really no control over – but normally it’ll just be a couple hundred. As stupid as it sounds, don’t put the name of your game on your box if it sounds nefarious – really. I’ve been hit twice with $6000 full container x-ray treatment for our game “The Manhattan Project”. When I started calling it “MP Game” these inspections stopped (and I’m not alone in this kind of story).  You will also need a temporary or yearly bond to be filed which is $200-500.
+ESTIMATED COSTS: I have found over the years that shipping a board game to a USA warehouse from China via ocean shipment will run about $1-2 per unit. Shipping to the EU was a bit more per unit (cause of fewer units overall being sent), plus you had to pay duties &amp; vat on trucking and so that was more like $5-8 per unit when dealing with only 2 or so pallets of games. To airship in some copies to the USA or EU it is typically around $10-15 per unit cost. With EU Friendly you can expect a higher amount of EU backers (25-45% overall). Here is a typical backer shipping chart I use with my Kickstarters that offer “free shipping” in the USA (for a 5 pound / 2kg game) with discount shipping elsewhere. After using roughly this for several campaigns I positive I’m not taking any big losses:
+
+IMPORT COMPANIES
+I have used these two companies repeatedly (EXW) to save over $1000 each time from what the manufacturer was going to charge me letting them handle (DDP). Just so you have some estimates, a typical FCL 20′ container will typically carry about 3000 full size games and cost about $5000 to deliver to your warehouse.
+Jim ConnOEC GROUP CHICAGO
+555 Pierce Rd
+Suite210, Itasca, IL 60143
+630-625-7900 ext. 5025
+jc.ord@oecgroup.comoecgroup.com
+Andriy TsyupkaAIR SEA TRANSPORT CHICAGO INC.
+821 Busse Rd
+Elk Grove Village, IL 60007
+630-479-3133
+atsyupka@airseachicago.comairseachicago.com
+UPDATE: 3/25/2019 
+Here are some notes passed on to me from someone importing into the UK. On the Chinese manufacturer’s shipping declaration form, they ask for either a CBP, EIN or SSN number, none of which apply in the UK. What you need instead is an EORI number which you can apply for from here:
+https://www.gov.uk/eori
+It’s free and immediate. You need your National Insurance number or your Unique Tax Reference number, and your date of birth and address. You also need to find the SIC number for what best describes what you’re importing. Now, these might change after Brexit so I can’t guarantee what it’ll be, but the gove.uk site offers a search function and it’s easy to use, with clearly defined categories. Only the SIC numbers from this site are compatible. Once you’ve got the EORI number, just make sure the manufacturers have it so customs can reference it when it arrives in the UK. They can then work out the input duty based on the SIC number.
+ 
+ 
+USING FULFILLMENT
+There are several ways to go about fulfillment and a lot depends on your product, your time, your location and space, and your tolerance for delays and other people handling your detailed deliveries. In either of these cases, you’re going to have to be comfortable working with worksheets to send the correct data in the correct format to these companies. A pledge manager can help you a lot in preparing these files.
+DO IT YOU SELF: I used to do these myself and just use USPS priority mail flat rate boxes or bags to get all my stuff out. This was because I owned a store (location to unload and pack) and had the staff to help me with the process. This was the most work-intensive way to do this, but you have control over all your detailed orders – but in the same breathe have to own all the mistakes you’ll make as you’re not used to doing this. It is best if you have only a few add-on products and not a lot of options or you’ll be hand picking ever order.
+Make sure you have a place to store pallets of games (you’ll need to pay for a lift gate on the truck that delivers them)!  Try to do everything in batches and assembly lines. Pack all the same type of items in one sitting. Use a service like Endicia to and get a DYMO label printer to make your life much easier.
+Self-shipping is usually only feasible for mostly USA orders as USPS shipping outside the country (even to Canada) is outrageous.  I would typically do the USA orders and have another company outside the USA ship the rest of the orders. Hopefully, you were smart enough to design your game to fit in one of the flat rate boxes that USPS provides for free – if not expect to pay around $1 for a box to ship in. Do NOT offer in-person pickup at conventions or otherwise, this just confuses matters and causes errors and can put you in a situation of not having the product on hand at the event and then having to cover shipping later.
+FULFILLMENT COMPANY: There many companies that want you to use them for shipping. I’ve listed a few that I know are decent and familiar with what game shipments require below.  Usually, these companies are not going to ship as fast and you may have to get in line when there are busy – so plan an extra week or two. These companies will charge you a fee per box (sometimes per item inserted) and also charge you for the actual box and packing materials and finally the postage. So again, plan for these extra charges when you calculate your shipping to charge the customers. Most companies will want everything bar-coded to help them pick the right products, but many can handle a promo card just packed in without a sku.
+In all cases, plan for some errors and for some damaged and lost packages. I’ve found that to typically be around 1-3% of the deliveries.  You will also incur storage charges for your inventory that isn’t shipped and if you want the leftovers sent to your office there is obviously going to be a fee for that too.
+MSRP and PROFITS: It’s important that you know your costs to get your game made and delivered to your warehouse (not including artwork or development costs). This is called the “landed” cost. This is a number which you know you can work with to figure out what you should be charging for your game. Typically 5 times that number rounded up to 4.99 or 9.99 ending digits.
+ 
+POST FULFILLMENT
+Remember you’re going to still want sales and hopefully get your product into distribution after your initial orders are filled. A fulfillment company can usually still help you with this – but it’s kind of a costly method to do so. Usually, it’s best to handle this end yourself if you can and that way avoids the storage and picking fees from another company. It’s very hard to get into distribution these days, but if you do so, you’re going to want to try to send full cases and they are going to expect you to cover the shipping, so figure out a good method of sending them and a minimum order size that makes sense (60% off MSRP and free shipping at $300 is normal). This goes for direct to retailer orders as well (50% MSRP). You also hopefully have set up a storefront somewhere as well as Amazon and eBay entries to sell your game direct to customers. Make sure you’re not deep discounting if you expect retailers to stock your games.
+ 
+FULFILLMENT COMPANIES
+Here’s is a list of fulfillment companies that can handle the games market:
+
+COMPANYCONTACTSHIPS FROMNOTES
+Aether Tower Inc.aether.tower@gmail.comMexicoMail to Texas
+Aetherworkswebsitekickstarter@aetherworks.com.auAustralia
+AgilitywebsiteCAChen@agility.comChina
+Amazon FBAwebsiteMultiple CountriesIssues with product listings changing. Requires barcode on everything.
+Attackewebsiteandreas.miksch@attacke-agentur.deGermanyReliable but expensive
+China Divisionwebsitemichael@chinadivision.comChina
+Collextwebsitehello@collext.comUK
+Flat River Groupwebsitekkrieger@flatrivergroup.comUSA$2/shipment Fedex
+Floshipwebsitesteve.suh@floship.comChina
+Fulfillritewebsiteinfo@fulfillrite.comUSA
+Funagain Gameswebsitefulfillment@funagain.comUSA
+Game Surpluswebsitegames@gamesurplus.comUSA
+Games Questwebsitefulfilment@gamesquest.co.ukUKCheap service. Slow to process. Tracking only in UK
+Happyshopswebsiteprojekt@happyshops.comGermany
+IdeasPatcher / Niftwebsitevcullot@morningplayers.comFranceSeveral bad reports
+Kixtowebsitemark@kixto.euUK
+Lets Play Gameswebsitenick@letsplaygames.com.auAustralia
+Logisticowebsiterz@logistico.deGermanyEU 2.50/shipment DHL
+Mail Boxes, Etcinfo@mbe108.esSpain
+Quartermaster Logisticsinfo@qmlogistics.comUSAGreat feedback
+Rocks Gamesmissiloon@rocksgames.nlNetherlands
+Send From Chinawebsitefulfillment_sales@sfcservice.comChinaOnly good for small packages. Damage on larger packages.
+Sendwich Logisticswebsitemaxi.ebert@sendwich-logistics.comGermany
+Ship NakedwebsiteUSASometimes poor communication and delays
+Shiphopperwebsiteinfo@shiphopper.comEurope
+Simple Globalwebsitesales@simpleglobal.comSouth Korea
+Snakes &amp; Latteswebsitegames@snakesandlattes.comCanada
+SpainBoxwebsitemanuel@spainbox.comSpain
+Spiral Galaxy Gameswebsitesales@spiralgalaxygames.co.ukUKGreat Feedback
+Starlit Citadelwebsitetrwong@starlitcitadel.comCanada / USA
+Sure-PakGreg@picksp.comUSA
+Unicorn Gameswebsiteinfo@unicorngames.com.auAustralia
+VFIwebsitecoyotegames@live.comChina
+Waylandwebsitechris@minervagames.co.ukUK
+YesFulfillmentwebsitehello@yesfulfilment.comUK
+ZhenHubwebsitevincent@zhenhub.comUSA
+* My personal recommendations are using Flat River Group or Quartermaster Logistics for USA / Canada and then using Games Quest or Spiral Galaxy for non-USA.
+ 
+MORE READING
+Shipping and Fulfillment
+
+
+ 
+			
+			
+	
+	
+			
+
+	
+	
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Thom on November 13, 2018
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Hi James,
+Thanks for another great article. 
+I just completed my first Kickstarter, but it was for small stamps, so I think I will only have about one palette worth of product. I was hoping I could have this delivered to my office building, and I’m doing the fulfillment myself. I have no idea if this is a realistic expectation. Should I be looking at renting a small corner of a warehouse somewhere? I’ve done the calculations and I believe I do have the storage space for the product.
+For your section on Import Companies, these guys can do soup to nuts delivery from factory to an address in the US? Do I also need to worry about the “You will also need a temporary or yearly bond to be filed which is $200-500.” or would they help with that as well?
+Thank you,
+Thom
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on November 17, 2018
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            For a pallet or two I’m sure you can find someplace at your office or home to stuff the product – no need to rent a warehouse. But make sure the delivery truck has a lift gate! The companies do it all but they will charge you for the temporary or yearly bond. But they can get that for you. Someone else cannot carry your bond – you must cover yourself.
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Thom on November 20, 2018
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Thanks for the info James.
+
+                        
+                    
+                    
+
+
+                
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									jeremy on November 14, 2018
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            James,
+Wow, this contains a lot of information. Do you know of any service that handles all of this fulfillment logistics? 
+Thanks,
+Jeremy
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on November 17, 2018
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            There are plenty of fulfillment companies – read my blog on Distribution I think there is a list on the bottom there.
+
+                        
+                    
+                    
+
+
+                
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Anna on February 7, 2019
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Such good info, thanks James. Bookmarking this post to visit again. And probably again and again
+
+                        
+                    
+                    
+
+
+                
+	
+		Leave a Reply Cancel reply			
+				 
+
+ 
+ 
+  oneall.api.plugins.social_login.build('oneall_social_login_providers_1678120', {
+   'providers': ['facebook','twitter','google','linkedin'], 
+   'callback_uri': (window.location.href + ((window.location.href.split('?')[1] ? '&amp;amp;': '?') + "oa_social_login_source=comments")), 
+   'css_theme_uri': 'http://public.oneallcdn.com/css/api/socialize/themes/wordpress/default.css' 
+  });
+ Your email address will not be published. Required fields are marked *Comment Name * 
+Email * 
+Website 
+
+
+
+
+      
+  
+  
+
+
+CAPTCHA Code *
+
+
+			
+			
+	
+
+
+		
+</body>
+</html>

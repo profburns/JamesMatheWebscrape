@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+
+
+</head>
+<body style="background-color:white;">
+Post Mortem – I’m not dead yet!
+			
+
+				Mar 05, 2014
+						10 Comments					
+								James Mathe
+				
+                    GAME PUBLISHING, KICKSTARTER ADVICE                
+
+				
+				
+			
+			
+
+			
+				
+ 
+This post is going to be part documentary, part educational, part advice, and part apology to our Kickstarter backers.
+Minion Games was utterly unprepared to fulfill the logistics and customer service needs of the numerous Kickstarters we successfully funded last year. As the owner, and only full time employee, I took on too much. Worst of all, though we have done our best to satisfy every customer issue and concern, the reality is that while our staff will recover from the long hours, our customers are the ones who have really paid the price for our mistakes, which we deeply regret. Our failures have shaken the confidence of our loyalist supporters, and while we hope to rebuild that confidence over time, we also hope that this document will help other manufacturers and aspiring game companies avoid the mistakes we made.
+IN THE BEGINNING, WAS HEGEMONIC
+We ran a very successful campaign for a board game called Hegemonic. Late in the campaign, we thought it would be great to have some metal coins added to it as a special bonus. We decided instead to run the coins as a separate campaign. So our thinking going into it was to reward our supporters, offer coins for cheap for those who wanted them, and offer free shipping if you already backed Hegemonic. Combining two Kickstarters was, it turns out, a logistical nightmare.
+We just finished shipped nearly 3,000 orders of our Hegemonic (heavy, large volume) board game, Metal Coins (very heavy, small volume), and our Foam Dice (light weight, large volume). These 3 campaigns raised nearly $250,000 dollars. That sounds like a lot, but because of how unprepared we were to deal with that kind of volume and the errors associated with it, we made very little money.
+The complexity and volume we were dealing with caused countless unexpected delays. There were delays due to manufacturing issues, trade partners failing to delivery custom products, human error in our shipping department, Backerkit software not being up to the task, and more. We spent a month auditing the data and 2 months shipping the nearly 3000 orders. Not a single day has passed in that time that I haven’t spent hours dealing with customer service issues. It ended up taking us nearly a year to get these projects delivered. That’s far, far too long.
+In short, we set ourselves up for failure.
+As they say, hind sight is always 20/20 so maybe we can turn this into a bit of foresight for some of you.
+INSIGHTS AND LESSONS LEARNED
+Do not low-ball your pricing. There are so many things that can and will go wrong. So many costs you will not have expected. So many reasons to build in some extra “fat” to cover these. You should calculate all your costs the best you can. Then even add 10% for damage/loss. Multiply that by at least 4 to come up with your price to sell your product on Kickstarter. It’s much better to sell less quantity and make more $ per unit when it comes to Kickstarter. Don’t chase those backers just looking for good deals, they are the ones that cause the most headaches later on.
+Do not sell for a low-margin. We sold the Hegemonic coins for about $2.20-2.40 a bag in Kickstarter, they retail at $6.99 a bag. This in no way allowed us to cover loss due to postal error, manufacturing damage, or human error. One of our rewards was just a collector set of coins, but since so many coins got added during stretch goals, we ended up loosing $2 per collector set we shipped. In short, I should have charged double and than had room to pay for the AAA customer service people were expecting. Yes, this would have meant we had fewer backers, but those backers would have been much, much happier.
+Do not offer completely custom rewards. We made the mistake of allowing backers to custom order 1 of this and 2 of that. Allowing people to pick their coins caused every order to be slowly hand picked (adding much labor costs). We should have only offered “batch choices,” or pre-fabricated units. You want to be able to “assembly line” each backer reward level when you have to ship them. This will insure each one gets the right stuff and speed up the processing greatly. Do not make fulfillment more complex than is absolutely necessary.
+Do not intermingle your campaigns. One of the biggest headaches we had was that we offered free shipping to those people who participated in our other campaigns. While this sounds like a great deal on paper, neither Kickstarter nor our in-house shipping department was set up to handle this. This caused lots of logistics problems and made it very hard to ship the right items to someone. In the end we had to pay multiple shipping costs on a lot of orders anyway. This also resulted in some people who backed early, getting shipped last, and that was extremely unfair to them. By the time we even realized this was happening, the damage was already done.
+Beware true costs of shipping. Postage rates keep changing these days, it’s very likely they will change before you actually ship your rewards. While domestic shipping only went up a bit for us, foreign shipping costs jumped 25% in the 9 months it took our manufacturers to fulfill our projects. We had to purchase boxes and packing materials as USPS Priority Mail didn’t always have the right solution for us. It took a lot of labor costs to get the products into these packages (2 months).
+Expect the post office to damage up to 5% of your shipments. Because any package with our metal coins in it was so heavy, this was a much larger problem than we’ve ever experienced on any project before. We lost over 10% of our coins to ripped packages that leaked in the postal system. We ordered 30% more coins than we actually needed, yet we ended up running out of some.
+Don’t offer free pickup options at conventions (or wherever). It’s a logistical nightmare, and if you or a customer misses the pickup window, they still expect you to ship to them at your expense. Some scheduled pickup at our stores, yet our staff still ended up shipping some a second package. It isn’t worth the added risk. All customers and backers pay a realistic amount shipping, no exceptions.
+Backers are expecting AAA service from you. You’re probably a one man show. They expect a level of service and treatment from you equal to the largest online retailers, and the reality is you don’t have the resources to provide it. This is just one more reason to watch your margins. If you’re charging enough for your products, you can afford to hire help when you need it. Or, failing that, you can screw it up and fix it out of pocket and not sweat it.
+Plan to pay others to help. This has an expense associated with it. In our case I had to pay 2 other employees to help me out for nearly 2 months. We had not counted on that large of an extra expense when setting up the campaigns as we didn’t expect them to get so large. You should have at least another 5% built into your cost to handle this.
+Never sell any excess product until the entire Kickstarter is fulfilled. As we were winding down our shipping of the coins, we still thought we had plenty on-hand and so we put some of the online to sell to help pay the incoming bills. This was also a mistake, as the shipping errors and loss mentioned above meant we had to reship a lot, which meant we didn’t have enough to fulfill all our orders. It also sent the wrong message to our Backers once we started running out. In short, this was a total bungle on our part, and compounded our woes.
+Lock down your orders once you sign the manufacturers contract. Don’t allow anyone to change what they ordered. Lock down Backerkit. In our case, about 10% more coins were ordered after we committed with our manufacturer. Another huge headache for us was that over 15% of the people in the campaigns filled out their Backerkit order forms wrong. This made for a huge amount of extra work and hassles and caused a lot of bad shipments. Backerkit was supposed to help us prevent that – but it failed utterly, and each failure or error that was shipped was at least another $5 or more in lost revenue.
+Have someone look over your posts before posting. We are a small company and so we can’t afford a marketing or PR person. I am usually on the move and trying to get things done so I post right after I write something. This has been a mistake and caused some bad blood. I should have found someone willing to filter my posts &amp; updates as not to come off in a way that wasn’t intended or insulting or confusing or any of the other myriad of ways my posts have been interpreted.
+Each update post should set a new expectation. Be clear, but try not to sound like you’re blaming others. One of my regrets is that many of my posts that I intended to be explanations of the various delays above ended up sounding like excuses. This caused people to be more upset. I was only trying to open and honest but it wasn’t taken that way at times.
+Set expectations on shipping speed. People think that when you announce that you’re starting to ship they will get their products within a week. Some will, most will not. Set the proper expectations up front. We as a team were still only able to ship 50-100 orders a day. When we could assembly line the shipments we could do 150-200 a day.
+Set priorities. Different levels of rewards have different expectations and some bring with it some entitlements. The Backer who helped us out on all 3 campaigns and at a higher then base level rightly felt they should get some priority. We failed at this too as much of the priority was set by what the staff could most conveniently handle. You should take some time to plan the priority of your shipments.
+ 
+ONE PERSON CAN’T DO IT ALL
+PLAN FOR ERRORS
+HIRE HELP WHEN YOU NEED IT
+I am proof that one person can’t do everything. I was able to setup and promote several very successful campaigns. We produced several great products we’re very proud of. But when it came to logistics and customer service – well I should have had help.
+In the end, Minion Games lost a lot of backers and future sales. We lost a lot of face and street cred. We ended up in the red or just breaking even on many of these projects. In short, these 3 Kickstarters, while helping us make some great products (which is the point of Kickstarer, right?), turned into a net negative for the company. I have written this down in hopes of helping future Publishers deal with their successes.
+James
+Minion Games
+
+ 
+			
+			
+	
+	
+			
+
+	
+	
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Kim on March 5, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            James this is a great post full of red flags waving for the benefit of future KS project managers.
+I had a touch of frustration at seeing Hegemonic in stores in Australia a month ago and still haven’t received my copy yet. But you know what? I have a cupboard full of games and 3 other KS games I haven’t played yet so despite my excitement to play Hegemonic, its just not that important to me. And I would advise people who are getting hot and bothered to put things in perspective.
+The fact that you are so willing to provide insights and do critical post mortems for the benefit of all matters far more than me to how late your fulfillment ran. 
+Re your various updates – well yes you clearly were a little frustrated and possibly overwhelmed by the sequence of logistical pit traps. Its all understandable from my point of view. But your tip re having someone with  a cool head review your mass communications first is a good one.
+For me the one key thing to take away from your experience as a KS project manager in the last year is too look at the ROI from each decision in your KS campaign. And look at the risks with each of them. Combining 2 things from different manufacturers seemed like a major risk to me – as cool as the coins looked. Flexibility is always risk laden. Multiple concurrent campaigns trigger red flags too unless you have capacity and experience.
+Speaking generally about stretch goals in KS; its cool and tempting to make great games even better via KS with stretch goals and flexibility etc, but how many backers would you have really lost if you didn’t have all of those things if the core game was still the main thing? And how much pain, time and money will you have to go through to create and fulfill those extras? Did doing those things actually send you backwards financially? Will you make up for that via regular distribution sales because the product is now ‘better’? So many more questions to consider around customer satisfaction around bling vs the core offer vs price too.
+I dunno, in an ideal world it would be great to see a KS project with the same core game run A/B testing style where A had oodles of stretch goals and B had minimal / safe ones, and see how each campaign ended up at conclusion and also a year into post KS sales. Never gonna happen I know.
+Thanks again for this post. I’m certainly still willing to consider future Minion Games KS projects on their merits in the future.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Christopher Daley on March 5, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            James,
+I am one of the people who was vastly annoyed by some of your responses to your customers, including me. I never really cared the game game was late but as mistakes started happening and your responses seemed biting. I started to get annoyed. I love your games and I found myself wondering if I would ever buy them again. 
+Thank you for this blog. It helped me make up my mind. I will happily support you again. This was the first time I really felt like I was valued. Just a thoughtful and thorough explanation. I really appreciate it. Plus, it seems like you really internalized went wrong. I expect future projects will flow more smoothly (this does not mean perfect. I know shit happens).
+Thanks again. I loved the coins, the game, and this blog.
+Christopher
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									John W on March 5, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Thanks for this post – As someone getting ready to launch a Kickstarter project, these are good reminders and things to consider as I’m planning.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Roger Hicks on March 5, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Thanks for sharing these lessons learned – I found this a very valuable read. I apologize, had I realized the situation I would have waited to bug you about the B4B Prizes. I look forward to the future of Minion Games 🙂
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Eric Hanuise on March 5, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Great post, James!
+Running a KS is always a learning and humbling experience (been there myself, made mistakes too.)
+Anyone can make mistakes, but only the worthy can own up to them. Kudos to you 🙂
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Isaac B. on March 6, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            This isn’t the first post I’ve seen addressing the perils that successful Kickstarter campaigns suffer, and I imagine it won’t be the last, now that stretch goals are the new go-to way to encourage lots of pledging.  I can appreciate the position you’re in, and it’s refreshing to see the honesty here where you own up to the mistakes you made.  It goes a long way with customer support.
+That being said, of all the Kickstarter projects I’ve been involved in, I find that most of the controversy comes from vocal supporters who are obstinate and unreasonable.  It’s one thing when it looks like a project will default on its backers (Up Front and Dice Age are two projects that I’m still waiting to receive), but when backers get bent out of shape over delays in production and/or shipping, I can’t help but roll my eyes and think that they’re making the rest of us look bad.  There’s a level of expectation and entitlement that I see in a number of supporters of the projects, and once they take to BGG and the Kickstarter comments to rage against whatever insult they perceive, the project suddenly becomes controversial.  It’s a self-fulfilling prophecy.
+I’m not going to say that I’ve never gotten a little torqued over how a company handled a Kickstarter project, but I think there are certain foibles that backers should expect from being a part of the projects.  Getting upset over something that’s out of the company’s control just gets old after a time.  Shoot, even for the stuff that is under their control, there’s a saying that covers most situations: “Shit happens.”  It’s not ideal, but it’s realistic.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Jonathan G. Nelson on March 6, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Thank you for documenting the perils of Kickstarter. From the outside it can appear that a company or individual is incredibly successful when in fact they are struggling just to make ends meet to complete the transaction with the backers.
+We had a similar experience regarding postage costs, delays, and other issues in our last Kickstarter. Also despite raising a large sum of money- the rewards we promised with our stretch goals proved too costly and with increased shipping costs we ended up several thousand in the red. We had to raise money through other means (selling rights to some of our original art/maps) just to get the books printed and shipped.
+It is important to remember when you back a Kickstarter that the “high” price an independent publisher requests helps cover a myriad of issues and in the end helps them get the book into your hands in a timely fashion. No one wants to cut corners and no backer wants a product that has been shoddily cranked out. When you back a Kickstarter you are paying to provide the product but you are also helping support the project as a whole. It is an honorable thing which backers do but it also has perils in and of itself. Overall I have been very pleased with the Kickstarters I have backed and am never annoyed when there is a delay so long as I am contacted and forewarned by the creator.
+Heads up on the site- those social sharing icons on the right are incredibly distracting and on a mobile actually cover up the text on your page (the content itself). I recommend ditching them and just using the icons you already have at the end of the article. Floating icons are more distracting than pop-up advertisements. Just my 2 cents! 
+Thanks again for the well written article. 🙂
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Daniel Wilkinson on April 1, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            An incredibly insightful article, a vital resource to any game designer or publisher looking to run a Kickstarter campaign. More over, your honesty and humility really gives weight to these lessons. Thank you for posting this.
+
+                        
+                    
+                    
+
+
+                
+                
+                Pingback:Kickstarter Topic #5 – Shipping a Kickstarter Card Game (U.S.) | Genius Games
+				
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Tao Wong on April 12, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Great post on Kickstarter.  The fulfilment side is something that so many people forget / make a mistake on because it’s not something that most individuals ever have to handle. Fulfilling 3000 orders is a mess unless you are used to doing it.
+
+                        
+                    
+                    
+
+
+                
+	
+		Leave a Reply Cancel reply			
+				 
+
+ 
+ 
+  oneall.api.plugins.social_login.build('oneall_social_login_providers_609500', {
+   'providers': ['facebook','twitter','google','linkedin'], 
+   'callback_uri': (window.location.href + ((window.location.href.split('?')[1] ? '&amp;amp;': '?') + "oa_social_login_source=comments")), 
+   'css_theme_uri': 'http://public.oneallcdn.com/css/api/socialize/themes/wordpress/default.css' 
+  });
+ Your email address will not be published. Required fields are marked *Comment Name * 
+Email * 
+Website 
+
+
+
+
+      
+  
+  
+
+
+CAPTCHA Code *
+
+
+			
+			
+	
+
+
+		
+</body>
+</html>

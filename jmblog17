@@ -1,0 +1,985 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+
+
+</head>
+<body style="background-color:white;">
+The Art of the RFQ
+			
+
+				Mar 22, 2015
+						27 Comments					
+								James Mathe
+				
+                    GAME PUBLISHING, KICKSTARTER ADVICE                
+
+									 gsm, manufacturing, rfq, UPC 
+				
+				
+			
+			
+
+			
+				
+
+ 
+This blog is my attempt to help shed some light on all the options (typical thicknesses and paper grades, pantone, etc.) and terms (GSM, Grey-core, 4/4c, etc.) you’ll need to know to talk the business of tabletop game manufacturing with your manufacturer through a document is known as a RFQ – Request For Quotation. Hopefully, this will help prevent you from learning some lessons the hard way.
+Once you have your game working great as a prototype (eg. the game is 95+% done), it’s time to start thinking of turning your baby into a reality. You can do that by handing it off to a publisher, but with Kickstarter, it’s now easier than ever to produce a game yourself. Still, there is a lot of work and dozens of decisions awaiting you if you do choose the self-publishing path. Do not undertake this without fully considering what you’re getting into. It’s unlikely you’ll have any time for more game designing during the process of Kickstarter, managing freelancers, getting the final files/designs to the printer, and shipping.
+It is your goal to make your game’s cost to the manufacturer to be in alignment with what people would expect your game to cost based on its parts but also based on the play style/type of game. So you may have to make concessions to produce a game that is marketable. See my blog titled “Trimming the Fat” for more specific information.
+One last quick note: If you live in the USA and think in inches, but stop it right now. Do all your work, design, files, and communications in millimeters (mm). It will save a lot of headaches later.
+ 
+TERMS &amp; ACRONYMS:
+GSM – This is thickness rating of card/paper stock. It is the Grams per Square Meter weight.
+10–35 gsm
+Tissue paper
+35–100 gsm
+Light to medium text paper
+100–150 gsm
+Heavy text paper or cardstock
+150-200 gsm
+Heavy cardstock
+200-240 gsm
+Very heavy cardstock
+240-270 gsm
+Light weight playing cards
+270-310 gsm
+Medium weight playing cards
+310-330 gsm
+Casino quality card stock &amp; poster paper
+&gt; 330 gsm
+Very heavy card stock
+Pantone – This is a color number that provides a way to communicate a specific internationally standard color to your printer. The problem with color on computers is that each monitor and home printer will show a different color and most are based on RGB (red, green, blue). Even a CYMK (cyan, yellow, magenta, and black) laser printer isn’t going to show you the same color as another printer. So there has to be a standard to use to specify a color you want. Note all printers want their files/artwork in CYMK format and 300+ DPI (dots per inch) resolution and usually PDF.
+Chipboard – Just a term used to refer to the thick hard board used to make your counters. Some companies may refer to your board that requires die cutting as a “punchboard” or “grey-board”. Like everything, these also come in different thicknesses and are then covered by a glued on a sheet of paper with the finished artwork.
+Saddle Stitched – Simply means that your manual is bound in the center with staples.
+4/4C – This means 4 color (full color) printing on both sides of the paper.
+ 
+ 
+THE REQUEST:
+Manufacturers have may use many of their own terms and their own ways of doing things, so sometimes they may call a cardstock by a different name for example. Just let them know that similar or equivalent substitutions are allowed, but verify what they exactly are. Some manufacturers might take only days to get back to you but some may take weeks (Panda GM for example is way overworked with the quality job they do). Sometimes though if you get a reply in a day or two you got to wonder why they have the free time to return a quote so fast (esp. if that quote is also very low). On average though you should get a reply in a week or two. I use and recommend Panda GM so give them some breathing room if you ask them for a quote, they are worth it.
+Once you accept a quote you’ll be asked to submit a purchase order (simply an invoice) with the options &amp; quantity you have chosen and then send the deposit amount for the factory to get started. The process from here (without problems) will take 3-4 months. Of course, you’re going to have problems, so plan for that.
+ 
+QUANTITY:
+Your RFQ should ask for a quote for multiple size print runs. Typically anything less than 1500 units will have a pretty high per-unit cost to it as it takes a lot of time and paper just to rev-up their printing machines. Once you can get to 3000+ units the price increases per quantity start to level out. I typically ask for a quote for 1500 and 2000. Most manufacturers will not go below 1500 though some will do 1000. Anyone willing to do such low quantities (or lower) makes me wonder how desperate (and why) they are for business.
+ 
+CARDS:
+Card Size: Card have many options, the main design decision is which size card to use.  Keeping the sheet count to a minimum as it helps save money. Some printers don’t worry so much about card count as they just cut the paper to spec or have fancier machines that can adjust &amp; correlate. But in general, ask the printer you decide to work with about your options. Here are some common sizes and how many you can expect per sheet of paper.
+American mini
+42 x 64 mm
+70 / sheet
+Euro mini
+44 x 67 mm
+70 / sheet
+Bridge
+57 x 87 mm or 57 x 88 mm
+55 / sheet
+Blackjack / Poker
+63 x 88 mm
+54 / sheet
+Euro
+59 x 91 mm
+45 / sheet
+Square mini
+51 x 51 mm
+75 / sheet
+Square (Power Grid)
+70 x 70 mm
+49 / sheet
+Tarot
+70 x 120 mm or 70 x 121 mm
+
+ 
+Card Finish: Cards also come in many different finishes: Matte Varnish, UV Coating (Lamination), and Linen. Matte is probably the most common and plain. UV Coating is like a plastic coating that is shiny, though it can peel if not of a good quality. Any components with a Matte Varnish or Lamination will have a slight darkening effect on the images and lose a little detail on the darker colors. Linen has a very nice textured feel and is great for cards that are not shuffled regularly. It’s near impossible to find Linen in the USA though.
+Card Thickness: The thickness of the card affects its overall feel, durability, and resistance to bending. Typical card thickness is 250-330 gsm. A game like Munchkin has light 280gsm cards. Magic The Gathering is roughly 300gsm and seems like a good standard, so that is what we use unless there is a need to trim some fat. Euphoria’s recruit cards are 360 gsm and Viticulture’s mini cards are 300 gsm. Battle Merchant’s cards are 275 gsm and The Manhattan Project is 300 gsm.
+Card Core: The core of a card is what makes it “snap” as well as prevents people from seeing through the card with bright backlighting. This is where I see many manufacturers calling their cards by different names so it makes it harder to compare. Typically a lower quality card would be called “white-core”. A medium quality core is typically called “grey-core” or “blue-core”. High end cores will use the word “black-core” or “casino” when they speak of the core. But it’s confusing as Panda GM for example calls their upper medium core: “Chinese Grey-core Casino Cardstock”. There is also plastic card stock but its expense doesn’t warrant its use in hobby board games. If they do not use a core in their cards, don’t use them as a manufacturer.
+Card Corners: Since you’ll usually be using pre-existing dies to cut out your cards you won’t have much of a choice about the corner shape. Most are about 1-4mm rounds.
+Shared Borders: Most dies for cards have a shared knife that cuts the right side of one card and the left side of the other. This however only looks good if the card has a solid color border (white wears better than black) that is shared with the card next to it in case it gets a bit out of alignment. If you wish to have full artwork to the edge of your card’s border, you will need to use a die that has 2 knives down the center instead of a shared knife. This can cost a bit extra as more paper is wasted.
+Promo Card: It’s common to supply Kickstarter or conventions with a promo card or two for your game. It’s a form of marketing and makes customers feel special. It’s very cost effective if your sheet of cards has room for the extra card(s). Then you’re just paying a small fee to separate out these cards and ship them bulk outside of the box assembly line. These cards can also be used to pay for advertising at BoardGameGeek.com which saves you a lot of money.
+Art Paper: “Art Paper” is NOT card stock. It is something that some low-ball manufacturers will try to slip into your quote instead of actual cardstock to make the quote cheaper. Art Paper has no core and will not “snap” when you shuffle and is more susceptible to humidity and damage. DO NOT make your cards out of Art Paper unless they are little used, not shuffled and odd shaped.
+ 
+PUNCHBOARDS (CHIPBOARD):
+Punchboards are made from chipboard and a custom die (template of knives and sponges) is created to punch out the shapes you need. You typically need at least 3mm bleed around your artwork as machines that do die cutting are not overly accurate and the stock can shift (up to 1.5mm). Try to avoid using hard edge borders around your art (like a circle edge in a round bit) as it will be overly obvious when the item is slightly mis-cut.
+
+The Cut: If the shapes are left inside the larger board, this is known as “Nick Cut”. If you wish the pieces to be removed from the master board and cleaned up, that’s known as “Clean Cut”. Make sure the nick cut used is small enough to have your bits pop out easy without ripping but large enough not to fall loose during shipping. Also note that a physical punch is made from front to back, meaning the front side will have a slightly rounded edge and the back will not. Rounded corners (even slightly) on all punch-out tokens are recommended (especially for triangular and rectangular tokens). Square corners tend to wear out faster. Like with cards, it is possible to share the edge of 1 knife blade (allowing for more compact boards) – but this is rarely recommended as the material can shift so much.
+Custom Dies: Cost about $100-300 so it’s in your best interest to make multiple boards that use all the same die to cut them out even if you waste a few extra pieces that are not to be used in the end game. A game with 3 dies and 3 boards will cost much more than a game that has 1 die and 3 boards strategically laid out to produce the game bits. Don’t forget that all your bits should be double-sided. The file containing the back side will have to be laid out as a mirror image.
+Size: While each factory is going to have their own limits on the maximum size punchboard you can make, bear in mind you’ll need those punchboards to fit in your game box with 5mm clearance all around. The larger the punchboard the more warping that can happen and the more costly the die. It’s better to make several smaller boards that all use the same die.
+Thickness: Most chipboards in modern hobby games are 2mm thick and have linen matte finish. You can go to 1.5mm without many people noticing you cut a corner. We used 4mm in The Manhattan Project for our cardboard Meeples as you need to pick them up regularly. People love them and it’s a thing people talk about regarding the game. But it is expensive and some factories can only do 3mm or less.
+Tiles: Tiles are just large square or hexes cut from your chipboard. They can be nick-cut or clean cut. Large sets of tiles can be costly, so consider using 1.5mm or even 1mm chipboard. If you’ll notice big selling games like Carcassonne and Zombies save a lot of money here using 1mm chipboard.
+ 
+GAME BOARD:
+The Fold: A decent board that won’t warp much and holds up to a lot of play will be 2mm thick. Most games will have the main game board and many of those will have a fold in them. They are sometimes double-sided, but most of the time you’re just wrapping the main game board image around the outside edge of this board. This requires an 18mm bleed to do so. The back can be covered in full art for not much more money, so consider making a second game board with a different mix of game elements/challenges or even use the back for a different language. The maximum size for game board will vary but most are limited to 6 folds with roughly a 700 x 1000 mm size. You’ll want to include a fold line template on a separate layer so there is one layer for the artwork and one layer for the fold line.  Where possible, avoid placing important text or images within 2mm of fold lines.
+Player Boards: You can make nice player boards out of just very thick (400+ gsm) paper. The Manhattan Project 1st edition did this and they don’t warp and look great – but people said it felt cheap. Still, this is an acceptable option if you need to keep costs down. If you choose to use chipboard, make sure you specifically instruct the manufacturer if you want wrap around edges and whether the back is black or full color. Many manufacturers will save money by not wrapping the player boards at all, which is OK, but doesn’t look as nice. Player boards are very annoying when they move/spin on their own due to warping, so drying out the cardboard before shipping is very important.
+ 
+THE BOX:
+There are many ways to package your game, the most common being a chipboard box with color artwork wrap that opens by lifting a lid (the entire cover) straight up. This is known as a Telescoping box. You can also get tuckboxes (flimsy cardboard box for just cards with a flap to tuck in), clam shells (clear plastic formed cases), or even more creative things.
+Size: Keep in mind that your box will probably be the most costly part of your game. While you’ll want to make sure you keep the box at least 45mm deep so it can stand on its end in a retail store, you should only make your box as big as it needs to be to fit your game (main game board). Regretfully, unlike cards, there are no real standards in box sizes so you’re going to end up paying for the box die anyway. But feel free to ask your manufacturer in the RFQ to substitute a standard box size they may have to help you save costs. Also be aware of the method you’re using to ship your game- making sure it fits nicely into a Medium Flat Rate Priority Mail box, for example, will save you a lot of costs on packing materials.
+Box Thickness: The box is typically made from 1-2.5mm chipboard. A 2mm box will hold up to weight and shipping and stacking much better than a 1mm box. I’ll typically do 1.5mm box is typically what I use. Also, keep in mind that a thicker box can stack more on a single pallet without damage.
+Box Wrap: The wrap is typically of 128-175 gsm art paper with a matte varnish, UV lamination (glossy) or linen (textured) finish. I typically use 157 gsm linen.
+UPC: You should have a barcode to make retail stores’ lives easier. If you don’t have a UPC you can get one cheap from either of these sites:
+http://www.ezUPC.com
+http://www.BuyABarCode.com
+ 
+BOX INSERTS:
+The card tray (sometimes called e-form) or thermoformed (vacuum) tray serves two purposes. First, it helps to keep the product safe from dings and wear from rubbing while in shipping. Secondly, it gives the player someplace to put the game bits back when done playing. You can just make very simple chipboard trays or you can get even fancier with several folds in the cardboard or you can go for the deluxe (more expensive and less forgiving) plastic inserts that match the games bits directly. These cardboard inserts are usually made with around 500 gsm stock. Whatever you choose, make sure that your cards will fit back in the box even if they are sleeved.
+You can expect to pay $150-500 for a basic mold for a plastic form and more for complicated ones (don’t be alarmed to see a $650-1000 quote). Getting very detailed and holding custom bits will take 3D drawings and more setup fees (it can be a real pain in the ass). There will also be a higher cost per unit to use a plastic tray (10-25 cents typically). Even the mold has two qualities: copper or aluminum, with the former being cheaper but having more defects in the tray. Keep in mind any expansions you may think of releasing in the future when designing your tray.
+ 
+MONEY:
+I’m going to get on my high horse here a bit, but it’s backed up by surveys of the most active gamers over at BoardGameGeek.com – In short, don’t do paper money. Use chipboard tokens, cards with values, poker chips, metal coins, anything besides paper. If you must use paper then at least make the money look like quality money.
+ 
+WOOD:
+Cubes: Most common wood bits are just cubes. They are typically 10mm x 10mm. It is, however, acceptable to use 8×8 to save money or 12×12 if you want them easier to be picked up. But your wood will be the third most expensive item in your game (The box and game board being the first &amp; second)
+Meeples &amp; Pawns: There really are no standards in this industry. Most factories will just make your order to suit your needs. So just specify exactly what you want. To do this usually, you must supply a black and white 2D silhouette of your design. A typical Meeple is about 20-25mm tall, 15-20mm wide, and 8-10mm thick. They need to be at least 5mm thick to stand up on their own. When it comes to a standard machine processing the wood bits, there are restrictions to the angles and overhangs allowed. But these days they can do some amazing designs without such restrictions with laser cut bits that cost just a bit more.
+Disks: The typical disks you see in modern games are about 14-20mm diameter and 4-6mm thick.
+Color: You will need to specify the painting color of all the wood bits. Keep color blind people in mind (which is harder then you may think) when choosing your colors. These colors will be specified by their PANTON number. A good group of colors to choose would be red, green, blue, black, white, and orange/yellow. Purple can look too much like blue or red if you’re not careful- even with normal vision people in low light areas.
+ 
+DICE:
+Standards: Dice that are not custom are usually pretty cheap and so common that you can add them to your game without much hassle. You need to specify if you want pips (dots) or numbers on your 6 sided dice. We were burned once by a 10 sided die order that had 1-10 on it instead of what we thought would be a standard 1-0 – so it’s a good idea to see a sample before you agree to the die, especially since some of these common 6-sided dice can be made extremely cheaply and be all kinds of screwed up (bad shape, poor inking, too hard of plastic that chips, etc.).
+Size: A typical die is a 16mm cube. You can save money though if you use smaller dice. 14mm and 12mm are acceptable alternatives. If you want a heavy large die as your main focal point of the game, consider 24 or 28mm size.
+Printed: You can have the dice silk screen printed which allows you to do fairly detailed designs on each side for a reasonable price. But these dice tend to wear off if heavily played. But since most games these days are not played heavy (too many games) it’s not a bad cheap solution. Stickered dice could also be an option.
+Molded: Custom dice require a mold to be produced and sometimes a base model to be created. Expect to pay $1000-2000 for these things. Also, you’re going to want to stick to one color if at all possible as it costs money to stop and clean the machine between colors of plastic. See Miniatures below.
+Faces: It is possible to have the indentations of the faces painted multiple colors or have a side of each die a different color, but these are a real pain to do and will most likely be a significant upcharge. So when thinking of the faces of the die, try to choose 1 die color and 1 paint color and make the icons serve all the rest of your needs.
+ 
+MINIATURES:
+Everyone wants minis in their game – but they are very expensive and a big pain to work with. Consider cardboard stand-ups as an alternative as they can have more thematic characters and be fully colored. Also, make sure you choose the type of plastic use wisely. Some plastic will bend to easy and some will not bend at all and break. Here are the steps and tips if you do decide to go full miniatures:
+Step 1 – Concept Art: You will need to commission some artwork for the model sculpture to work from. They may need to make more than one image, but most sculptures can work well from a single design image. This will cost you $100-300 per figure.
+
+Step 2 – Modeling: There are two ways to do modeling these days. You can either do it the old-fashioned way with clay / green stuff or you can get a 3d water-tight model made in a CAD system. They both cost about the same to make, but CAD file is easier for the China factory to use in its base form. But then again, file formats and other headaches can be an issue too. This could cost you $300-600 per figure.
+Step 3 – Mold: The factory making your game will need to take your sculpture (which you will have to mail to them through FedEx which will cost you $80-100) or the CAD file (in a format they can use) and convert it to a plastic injection mold. This mold can have multiple (3-8) miniatures (figures) in it, but it’s going to cost you $2000-3000 per mold.
+Size: While this is totally up to you, you will want the scale of your miniatures to be a reasonable size to fit the game board. It would also be a good idea to make your miniatures in a size that is compatible with other games. If you need to make a lot of minis then consider 15mm, but normally you’ll want to make them roughly 25-28mm scale (1” = 6-foot tall figure) which is typical in many other games line D&amp;D and Warhammer.
+Assembly: It may be cheaper and the manufacturer will try to push you to make minis with multiple parts to assemble for a single figure. While you can get better results and details, keep in mind you’re making a board game and not catering to the miniatures hobby market. So don’t use multiple parts for a single figure if at all possible. If you do keep it to just 2 parts if at all possible.
+ 
+PLASTIC:
+Most overseas factories have made their bread and butter on plastic injection molding, so most of these companies making your board game should be able to work with you to make custom plastic parts for your game. That said, anything custom will cost you. If you want a different color plastic for each player color then that means they need to clean the machine and restart it that many times. Costs can add up quickly. But at least the per unit cost tends to be 5-20 cents each. Most of the time though, large or complex plastic bits are not going to be cost-effective for your board game.
+Plastic Cubes: Plastic cubes, while not as nice as wood cubes, can be done at a cheaper cost (25% less if the mold exists already) and might even fit your game better. More and more games are including these, and translucent cubes sure look sci-fi.
+ 
+MANUAL:
+Your manual can be black and white or full color. It’s not much more for full color so I’d advise you to make your manuals full color or they will look cheap. Don’t forget to include copyright info in the manual! A cover page is nice but not required as you jam as much as you can into the manual. Same goes for the back page, use all the space for rules, examples, and pictures.
+Binding: A manual can be folded, saddle stitched (stapled), or perfect bound (glued). Most will just be saddle stitched and have an even multiple of 4 for the page count.
+Size: The size of the manual can vary to any size you choose – but we recommend making it roughly 10mm smaller than the size of your box. A 10 point font is acceptable for reading most things. If you need to thank a bunch of people or have a lot of fluff text, you can consider doing that in a smaller font. Try to use only a limited amount of very readable fonts and a background that doesn’t make it hard to read. Readability is more important than a cool thematic font or background image.
+Stock: The paper should be roughly 120-150 gsm and typically on matte paper.
+ 
+BAGS:
+Don’t forget to include some clear zip lock bags for players to put their bits back into after playing. We typically include one per player plus one or two for miscellaneous stuff. You can also request an option for draw-string velvet bags as they are pretty cheaply made in China.
+ 
+CASE/OUTER BOX
+Now that you have a bunch of games shrink-wrapped and ready to go, you will also need to ship them in bulk to you. This requires that you also get cardboard case boxes with your game markings on it.
+Case: Some manufacturers will cheap out on the outer packing and this can lead to a lot of damage in shipping and thus lost product. So make sure it’s thick enough for the job. If you have a large heavy game, consider using corner reinforcements. I also wouldn’t bother with any insurance as it’s too hard to collect and everyone points fingers at everyone else. Just make sure they use strong enough boxes and don’t put too many games in 1 box. 4-6 is good.
+Markings: Your outer box should state your company name, your game’s name, SKU, Made in Country X statement, and the quantity of the contents. It should hold about 4-6 copies of your larger board game, 6-12 copies of a medium sized game, and no more than 50 units of a card game. Again, some manufacturers will over stuff these boxes to save costs and this leads to product damage. To be clear up front what you want the case quantity to be and the markings on that case. I wouldn’t bother with any other regulations type markings (like CE or such) as any customs agent is going to open your box anyway.
+Pallet: You will also want to request pallet loading of the packages onto the container. If you do not they will just throw all your games into the box and you’ll have to unpack them 1 at a time from the container – which since it’s most likely not you doing it, you’ll end up paying someone in your country to do this and they’ll probably charge you to palletize it anyway. So make the manufacturer do this from the start. There are some cool websites out there to help you figure out how many will fit on a pallet.
+http://www.packer3d.com/online/pal-by-box
+http://www.onpallet.com/index.php
+ 
+SHIPPING
+It is also a good idea to ask for an estimation of shipping the game to your destination country (not your doorstep). This obviously affects the overall cost per unit. For example, a typical $50 game in a 12 x 12 x 3” box and 1500 units will probably cost you about $3000-4000 to get shipped. You will have to spread that cost out to all units to get a better estimate of your per unit costs. Don’t forget to leave some cash for any import or customs processing fees.
+Container: You can use a LCL (Less-Than-Container Load) or a full 20’ container for ocean shipping of your games. Obviously, if you’re not using all the 20’ it will be cheaper to ship via LCL as long as you’re not using like 80% of the container anyway. So ask and check.
+Customs: You’re going to have to pay $300 or so for customs charges… but it’s possible you have to pay a lot more and there is no way to plan for this. If your container is searched, you’ll have to pay your share of storage and processing fees. If they decide to open/X-ray every box that fee can go as high as $3000. You will also need to have a company help you with this process and they will ask you for a Power of Attorney paper to allow them to do so. That company is also going to charge you around $300.
+Domestic Delivery: You will also need to hire someone to load a truck with your products and deliver it to your warehouse (or house). That may or may not require a lift bed option. If they have to palletize your products it will cost more. The further they need to drive the more they will charge. This is typically a $500-1500 bill.
+
+Shipping Terms:
+
+
+ DDP: Full Service. Price includes shipping to the delivery address, customs clearance, and import duties + taxes. Most common for shipments to North America.
+
+
+ DDU: Same as DDP, except the price does not include import duties + taxes (VAT). Most common for shipments to EU.
+
+
+ CIF: Shipping to the destination port. Client must arrange for import customs clearance (including duties + tax payments), pickup from port, and delivery to a warehouse.
+
+
+ FOB: Delivery to the departure port + Chinese customs clearance only. Client responsible for ocean freight, insurance, and all other shipping arrangements.
+
+
+ EXW: No Shipping Service. Client arranges to pickup games from a manufacturer’s warehouse. Will still pack cartons (and load pallets if requested).
+
+ 
+TIMING
+This whole process takes a lot of time with many stages which a wrench can be tossed into the mix and delay things for weeks. Many times those wrenches are owned by the new publisher not knowing how to do things properly. But here is a rough estimate of typical times required:
+Digital Proofs (1-2 weeks): Once you sign the purchase order, it’s up to you to get the digital files loaded to the manufacturer’s FTP site in a timely manner. Still, they are going to come back to you with problems. You might not have enough bleed on a file, or a file may be a different size then the quote expected, or the color saturation might be a problem with too much black in places, or the die lines might not be done right. So many things can happen here, I would only count your game started in production from the date you approve the Digital Proofs. Most manufacturers will get back to you within a week with any problems from the files you uploaded. But you getting them fixed can add weeks as you’re probably working with busy freelancers who can’t always drop everything to fix something for you. Even if they do you have the time zone issue that makes a minimum of a 2 day turn around for even the simplest communications. The more that you catch here the more money and time you’ll save. Make sure all the backs match the fronts and the counts are right.
+White Box &amp; Proof Sheets (2-4 weeks): It’ll take at least a week or two for the manufacturer to assemble an unprinted sample of your game. But it’s likely they have other projects ahead of you so it can take a month. Then it’s a couple days of air mail to show up to your house. Obviously, if you find errors at this point or get some materials you were not happy with, they’ll have to fix that and resend. That can easily add another week. This is the time to make any last fixes as they just get more costly in the future.
+Production Copy (2-4 weeks): Once they have the approval of the White Box and proof sheets they will go about making the printing films and ordering the paper &amp; chipboard stock as well as outsourcing the wood bits. This process will typically take 30-60 days to finally get you a post-production copy. A couple days in air-mail and then you need to look it over really carefully and get back to them that it is OK to proceed with the full production run. Any changes at this point are costly in both money and time.
+Mass Production (4-6 weeks): The process of actually printing and assembling all of your game. Also, involves acclamation to the right humidity and drying of the ink, then packing them in the master boxes and palletizing the boxes.
+Shipping to local Port (1 week): Once the games are all palletized they will deliver the games at their cost to the local port to a freight forwarder who will have arranged for your games to be put in a container and onto a ship.
+Ocean Shipping (4 weeks): You can ship a bit faster to the LA port but then you may have to pay for a train to go across the country and that will add time too. So it’s usually best to just ship to a large port near you and reduce the amount of ground handling. Typical ocean liners will take about 22-28 days to sail to the USA or Europe from a place like China.
+Customs Processing (2-10 days): Once offloaded from an ocean liner someone needs to take ownership of the goods. That is usually a company that you have hired to handle the logistics of this process. If your games were pulled aside for inspection, expect to pay some fees for that privilege as well as fees for storing your games while waiting for that privilege.
+Local Delivery (1 week): You will have had to hire a local shipping company to truck your pallets to your location. If you don’t have a pallet jack or truck bay, be prepared to cut open the pallets and unload from the back of the truck. Truck drivers are not paid to help you do this so get some friends. If you pay extra for a lift gate they will at least dump the stuff by your front door and let you deal with it on your own time.
+ 
+ 
+MORE QUESTIONS
+Some other important questions you should be asking your manufacturer:
+How much must be paid at the signing of the purchase order?
+Can they send you samples and references?
+Do you have a climate-controlled factory or a dehumidifying room? It is very humid in China and India and if the manufacturer does not acclimate the game to your countries levels, your game parts will at best warp and at worst develop mold. This is very important to make sure they do this BEFORE they shrink wrap your game bits and outer box.
+Can they supply you with some extra bits to allow you to replace missing parts without having to open new games to get them?
+Typical production and shipping times after each approval stage.
+What approval stages do you have?
+Is there a cost for the physical white-box and/or production samples?
+What quantity of over or under printing is allowed?
+What is their typical error rate after quality control/assurance? If they say anything other than roughly 1-2% I would wonder why.
+ 
+EXAMPLE RFQ:
+Dead Men Tell No Tales example
+Hegemonic example
+Battle Merchants example
+ 
+FILE PREPARATION
+Avoid using rich blacks as these can lead to color inconsistencies. Use pure 100% black (K) for text, card borders, and your UPC barcode. In the CMYK settings, you can achieve pure black with the following color settings: C: 0%, M: 0%, Y: 0%, K: 100%
+Make sure all text and images are at least 3mm away from any edges or die-cut lines to avoid being cut off. Components with Linen Embossing finishes can stretch slightly, which may impact the accuracy of the die-cutting. It’s safer to use a 5mm inner bleed and 3mm of outer bleed.
+Make sure all files include trim marks and/or die-cutting lines on a separate layer. Almost everything you do will require a 3mm bleed in the artwork and 5mm on the outside edges of the actual die.
+The box will have a “wrap around” edge so it will need a roughly 18mm of bleed on each side of the artwork for the box top and box bottom. You’ll need the bottom of your box to be 4mm + the thickness of the cardboard used smaller than the top/lid. The bottom of your box will also contain side artwork, so you can use this to show off your logo or even ads about your other games as it’s only seen when the game is open and being played. The largest component in the box should be no larger than 10mm smaller than the box bottom.
+Don’t forget to add to your back cover or sides some standard and legal markings on your box: CE symbol, UPC barcodes, SKU, Choking Hazards icon, Made In China, Age Ranges, Play Time, Number of Players, etc. It is, however, NOT a good idea to put your retail price on the box. Retailers wish to set these how they want in case it costs extra to get your game into the store.
+ 
+SAMPLES:
+Get samples every step of the way. Make sure you know what you’re getting and things are as you planned. There is no way to do that 100% without having the items in hand. It is very easy to overlook things in a picture or for things to look fine but feel odd.
+Digital Proof: The first sample you will get is known as a digital proof where they will send you back low res layout/proof sheets for you to review. Check the card counts. Check that the right backs are on the cards. Verify the margins and the die cut lines.
+White Box: Also known as the PPC (Pre-Production Copy). This is simply a physical copy of all the parts that are going in your game but not printed yet. This allows you to make sure things fit together properly and that the thickness of chipboard and cards are all to your liking. Usually, since this is your first physical mailing they will include a mockup of the game with some laser printed artwork as well as send you the full-size proof sheets for color review.
+Mass Production Copy (MPC): This is the first off-the-press copy. This is the very last chance for you to change anything as they are starting to assemble everything for shipping.
+ 
+More reading &amp; reference:
+Pantone reference sheet: click here
+Worksheet for costs analysis:https://www.facebook.com/groups/TabletopKickstarters/1330944120299566/
+Hitchhiker’s Guide to Manufacturershttp://www.jamesmathe.com/hitchhikers-guide-to-game-manufacturers/
+Trimming the Fathttp://www.jamesmathe.com/trimming-the-fat-board-game-on-a-diet/
+Quotes and Setting Priceshttp://www.leagueofgamemakers.com/kickstarter-homework-lesson-1-quotes-and-setting-prices/
+Game Design and Self-Publishing: A Primer for Self-Publishershttp://boardgamegeek.com/thread/789423/game-design-and-self-publishing-primer-self-publis
+
+ 
+ 
+			
+			
+	
+	
+			
+
+	
+	
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Rocky Mountain Games on March 23, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            This would have been great as a panel at the GAMA Trade Show, when we went last year!
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									John Coveyou on March 23, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Super though-out and very thorough article. Thanks for taking the time to compile this list of valuable information and post it here! I’m probably gonna bookmark this one, and send people back to it when questions are asked in our forums.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									John "Hex" Carter on March 23, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Oh man, this couldn’t have come out at a better time! My team and I are actually having weird communication issues with a potential manufacturer. This will help us educate ourselves so that we can make sure we’re speaking the same technical language as them. Thanks for this in-depth article!!
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Eddy Boxerman on March 24, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Yet another incredible resource. Thanks! (I wish this had existed 6 months ago, but it’s still filling in gaps for us today.)
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Brett Sobol on March 25, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            James –
+First off, this is a great resource and a very insightful article! I have two quick questions:
+1) Regarding the outside markings on the case/outer box, would you recommend putting anything to state compliance with CPSC/GCC regulations?
+2) When shipping games from overseas via ocean freight, how much should you expect to pay insurance? Have you found anyone that’s easy to work with?
+Thanks!
+Brett
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on March 25, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            1) No I wouldn’t bother putting more data on the outside box. It’s used for identification and sorting – it’s not going to be trusted by the customs people, they will open your box.
+2) I wouldn’t bother with insurance. Too hard to collect if something does go wrong. I apparently had insurance on one shipment and even though $1500 of product was damaged, they (printer, shipper, liner) all pointed fingers at the other guy. Though it was obvious through paperwork the damage happened on the ocean liner, they still never paid up anything. And how do you chase a company that you didn’t directly contract and rarely speaks English?
+I’ve never had any significant damage since that first time – and to be fair the manufacturer I used packed the games way too many per box (10) and in way to light of a box material.
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Brett Sobol on March 25, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Thanks James! Quick follow-up on #1. When should you arrange for testing of your finished game for CPSC/GCC requirements? It was my understanding that it should be complete before shipping through US customs. Is there anyone that you would recommend?
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on March 25, 2015
+									                                
+
+                                
+									                                
+
+
+                            That’s too complicated to get into here. In short, you should get some testing done in CHINA so they can fix anything that went wrong. If you produce your game for 13+ you don’t need to do testing. Some testing for young kids games can cost a lot of money. Some manufacturers in China will say they got it tested and don’t ever give you paperwork and take your money. Best thing to do is use a factory you know isn’t cutting corners and has a rep.
+
+                        
+                    
+                    
+
+
+                
+
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									JR on March 30, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Great article!
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Steven Cole on May 25, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            James, great article!
+I’ve had some success with cheap barcodes from here:
+https://www.nationwidebarcode.com/
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Steven Lykowski on August 20, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Hi James,
+I am beginning the production process for my first KS game. My manufacturer is asking me to sign a Letter of Authorization and an invoice before we begin production.  Neither of these provide me any guarantees…one gives them permission to print my game and the other just obliges me to pay them.  Isn’t there also supposed to be a manufacturing contract with very specific terms that gives me guarantees on my end?  
+Thanks.
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on August 23, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            You’ll be surprised how little paperwork they want to do and as long as you get a sample of what you want FIRST then it’s usually not a big issue. Most of the China factories are honestly trying to just make a buck. They rarely just rip people off – they have a rep to worry about. They do however make many stupid mistakes or miscommunications on details. So make sure you have as complete of a sample copy as you can get before you send over the big downpayment – then make sure you get a sample before the final payment.
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Steven Lykowski on August 24, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Good to know.  I’ve been reading a lot on how China rarely cares about contracts and usually focuses on relationships and reputation, like you mentioned.  From a normal business standpoint I find that disconcerting though.  Thankfully I was able to squeeze an additional contract out of them.
+Do all manufacturers send out complete samples before the down payment?  Mine does not.
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on August 24, 2015
+									                                
+
+                                
+									                                
+
+
+                            No. Most can supply you with samples of other games. But once you sign the contract and pay the 50% down, you can make sure they send you at the very least a white-box version of the game (one without printing done) and a sample that was laser printed and hand assembled. That way you know you got all your ducks in a row.
+
+                        
+                    
+                    
+
+
+                
+
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Steven Lykowski on October 8, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            I received a laser-print sample. Should I also be receiving a shrinkwrapped mass production copy before they hit the green light? Or at least full-size proof sheets?  Thanks.
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on October 8, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            No the MPC is usually a first off the line sent to you before they finish assembling all your games – meaning everything is probably already printed and ready to be put together and shipped. If you find something wrong with the MPC that means they’ll have to remake some element of your game – it’s costly but it’s your last chance for change before they ship the game.  You should get full size proof sheets to color check though before anything is too far along.
+
+                        
+                    
+                    
+
+
+                
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Steven Lykowski on October 23, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            If I want to color-check the completed cards on their offset printer, they are asking for $2k to print out all 8 plates which seems absurd (or I can ask to see just 1 plate for $220).  I just thought there was some way to check the totally completed game before mass production begins.
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on October 25, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Different printers do different things and build in different costs. Seems like you might have went to a super cheap quote that didn’t allow for any mailing of physical samples. The shipping alone can be $80-200 for samples as they have to send them Fedex.  But $2k – no that’s not reasonable in the slightest. I don’t know a huge amount about how this is done, but it’s possible that our color checks are done not on the offset printer but a high quality laser and you approve it and then they make their offset printer match it. Cause firing up an offset printer and getting all the coloring set and such takes a lot of time and ink and paper as they can’t just print a couple sheets, they have to print huge amounts as the printer runs fast.  So maybe it’s just a matter of explaining what you really need – which is just a sample you can approve the color on and it doesn’t have to actually be from their actual offset printer.
+
+                        
+                    
+                    
+
+
+                
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Scott Rogers on January 22, 2016
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            James,
+Thanks for the wealth of great information. This is particularly useful for my boardgame design class who have to make prototypes during the sememster.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Kyla McT on March 29, 2017
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Tarot cards are 32 to a sheet.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Tomas Fuentes on October 17, 2017
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Hi James,
+I’m trying to figure out my box size based on my board.
+How many millimeters of margin do you think I should have on each side from the actual board Image?
+Thank you so much
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on October 17, 2017
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            That depends if your board is wrapping around or not. Normally main boards do. Also, depends on your printer so you should ask them.  But around 15-20mm on each side I think.
+
+                        
+                    
+                    
+
+
+                
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Tomas Fuentes on October 21, 2017
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Hi James,
+I notice that in your quote for DMTNT you have “box blanks: MGK 700 g/m2”  
+What is box blanks MGK 700?
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on October 21, 2017
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            That’s something I think the printer put in, but in short, it’s just stating the thickness of the box before it gets any printing wrapped to it. It’s not usually specified that way so not sure why it was included.
+
+                        
+                    
+                    
+
+
+                
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Tomas Fuentes on October 21, 2017
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            I have to put images on my dice.
+What is your opinion on heat transferred dice vs hard stamp (don’t know the term when an image is embedded)
+and thank you so much on all the advice you’ve given, I really appreciate it.
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on October 22, 2017
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Dice are either heat transferred, silk screened, laser etched, or made from a mold. The first two will wear off after regular use and I don’t recommend them unless you 100% need full color or are stuck having to use the cheapest option possible. The laser makes sense if your details are too sharp for a mold or you only need a small quantity of dice overall (like 1000 or less), but if that’s not the case it’s best to use a mold.  Hope that helps. Please ask questions not directly related to my blog post in our FACEBOOK forums. https://www.facebook.com/groups/TabletopPublishers/
+
+                        
+                    
+                    
+
+
+                
+
+	
+		Leave a Reply Cancel reply			
+				 
+
+ 
+ 
+  oneall.api.plugins.social_login.build('oneall_social_login_providers_8532095', {
+   'providers': ['facebook','twitter','google','linkedin'], 
+   'callback_uri': (window.location.href + ((window.location.href.split('?')[1] ? '&amp;amp;': '?') + "oa_social_login_source=comments")), 
+   'css_theme_uri': 'http://public.oneallcdn.com/css/api/socialize/themes/wordpress/default.css' 
+  });
+ Your email address will not be published. Required fields are marked *Comment Name * 
+Email * 
+Website 
+
+
+
+
+      
+  
+  
+
+
+CAPTCHA Code *
+
+
+			
+			
+	
+
+
+		
+</body>
+</html>

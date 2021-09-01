@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+
+
+</head>
+<body style="background-color:white;">
+Myth Busters – Kickstarter Referrer Page?
+			
+
+				Feb 26, 2013
+						18 Comments					
+								James Mathe
+				
+                    KICKSTARTER ADVICE                
+
+				
+				
+			
+			
+
+			
+				
+ 
+Myth Busters – Kickstarter Referrer Page?
+UPDATE: Kickstarter added google analytics at the end of April 2015 which really help track referrals. A good primer was posted here: http://www.spellforgegames.com/kickstarter-and-google-analytics-a-guide-for-kickstarter-campaigns/
+REFERRALS
+I am in the unique position of having run many Kickstarter campaigns myself and knowing personally two other prolific publishers that use Kickstarter. So I reached out to 9 Table Top game publishers and 3 Video Game publishers to get some answers about the misleading Kickstarter Referrer page.
+Why do I say it’s misleading? Well, Kickstarter’s method for tracking referrals doesn’t work well. First off they are relying on a post variable to set the referral cookie and it overwrites it often during just browsing their site. If you notice in the URL when you click through to a project you’ll often see a ?ref=something tagged on the end of the line. This is setting the variable (and cookie) of “ref” to a new value. This overwrites any old value. So no matter where you really came from or heard of a project from, you are now tagged as learning about that project from the last place you clicked. Thus, the referrer page is only valid for those who pledged more or less the first time they saw your project or at least used the same off-site link to get back to it later when they did pledge.
+Worse, I have personally tracked that even when you modify your past reward to a new reward, it’s overwriting your ref variable. Thus, the data that Kickstarter provides for referrals has to be looked at with a big block of salt instead of just a grain. In fact, it’s so bad I can only guess that its somewhere between 10-70% corrupted data. So, I have little choice but to toss out most of the referrals that Kickstarter claims as their own. Kickstarter campaigns typically boast around 40-60% referrals form Kickstarter itself, and this is just not true.
+To make matters even worse there are plenty of ad-blockers out there that prevent the reporting of the referral site from the browser itself. I have bundled most of these unknown sources into Mailing Lists as I found a majority of our mailings result in this sort of code. So Mailing Lists below are overstated.
+Specifically looking at 3 of my recent large campaigns where I actually surveyed backers directly, I see the truth of the matter. I found that Kickstarter was responsible for 21-36% of my referrals and yet they claim 47-57% on their referrer page for all the campaigns.
+The data-set that I have analyzed is of successful campaigns in the gaming category only, the majority of which is in the Table Top gaming category. Still we have a pretty good data set of 12 different publishers, 23 campaigns, and over 34,000 backers.
+NOTE: Both because of the fact that only 3 Video Game publishers responded and because the data was significantly different then the Table Top category, I have only included a reference chart of that data at the bottom of this article. Also note that we did not get any data from Role Playing Game publishers.
+SOME WORK AROUNDS
+Chatting with Kicktraq, he had the idea that just adding ?ref=whatever to the end of any link to Kickstarter it will include that data on the referrer page (if not overwritten). This will help in having other campaigns see your data. I’ve seen “Kicktraq” highlighted in green even which is weird as that’s usually for internal referrers.
+Chatting with Ryan Dancey, he also had some good ideas. If you use bit.ly to direct people when doing your own marketing, you can later see true referral data on that custom link by appending a + to the end of the custom link.
+So without any more delay here is a break down of the overall Table Top (Board/Card) Games category:
+
+BREAK DOWN
+Surprisingly in the break down of all the data, aside from a few outliers from lucky breaks in the media, most of the referrals all came from the same places. These are the sites I saw repeatedly in the data and worth your time to work with:
+BoardGameGeek.comFacebookGoogle+RedditTwitterYouTubeKicktraq
+Wired.comPenny-Arcade.comGameBugle.comforums.somethingaweful.compurplepawn.comtabletopgamingnews.comfathergeek.com
+A surprise to me is that I rarely ever saw TheDiceTower.com (or 2d6.org for that matter) as a referrer in my data-set. I assume that this means most of his following is more interested in finished games they can buy at the store. It might just be the publishers that responded to me didn’t make use of his services, so I won’t be listing this as a MYTH. Someone who actually paid for his preview will have to let us know.
+MYTH #1: Kickstarter is responsible for 50% of your sales
+To the right I have displayed 3 prolific publishers and a general grouping of 6 other campaigns (2nd from the top). As you can see most of the backers are coming from a Publisher’s own promotions which is usually a mailing list of some sort. In fact, if you add the Publisher’s home page and Mailing lists together you can constantly account for 50% of all referrals. While Kickstarter data was left out and it probably plays a decent role in your referrals, I do not believe it trumps the publisher’s own fan base (maybe not even close).
+Don’t get me wrong, Kickstarter does drive a lot of traffic, especially if you’ve used them before. Initial days you can gain a lot of exposure from the friends’ backing (emails) from Kickstarter. Mainly I think because it’s easier to browse what your friends like than the stupid browsing system Kickstarter uses.
+What does this mean? It means successful campaigns are run by those publishers who manage to build a fan base before they start their campaign. This is the reason we preach the fact that you must start your marketing well before you ever hit that launch button.
+The second small chart from the top is a chart with 6 single game publishers. They are all newer companies or first time Kickstarters. So they relied more heavily on social media but still worked hard to get direct traffic to Kickstarter.
+ 
+MYTH #2: Advertisements pay for themselves
+The next big take-away is an obvious one we can probably all agree on… it’s extremely important to make use of the major community/forums for your product. BoardGameGeek.com played a very important role in every project. The myth to bust here though is that running contests or advertisements there would be very effective; they were only mildly so. Many companies ran them at the start of their campaign so the data was disguised in the initial rush to pledge. But I have run several controlled tests myself as have a couple of other publishers and have found that the ads will pay for themselves if you’re lucky and the contests definitely are not worth it. You can generate 75% or more of those same sales by simply using their forums and talking about your project on their site. That doesn’t mean spamming – use the areas they provide for listing your project.
+Some ads were also paid for on blog sites and Kicktraq by a few publishers. Similar results though the break even was much lower.
+Facebook allows you to promote your posts for $5 or $10 and those are a good return if you do that on one post with a nice picture once a week.
+I surveyed over 1000 backers and less than 1/3rd of them ever pay attention to banners or online ads.
+Traditional media or print ads are a complete waste of time and usually too slow. The public is starting to move on from this darling new thing called crowd funding. Don’t waste your time there. Same goes for conventions as people attend them to get something while they’re there, not when they return and have to purchase something. That’s not to say you shouldn’t demo your game at conventions, but just don’t expect it to generate pledges on the spot.
+I would only recommend online ads if you’re not able to gain any traction without them or if your trend line is showing your funding might be borderline.
+UPDATE: In a more resent post I address advertising again and found that some select sites like BGG can be worth the money if you take into account all the misleading referral information Kickstarter feeds you.
+http://www.jamesmathe.com/dead-men-tell-no-tales/
+ 
+MYTH #3: Constant posting on social media generates a lot of sales
+I found that most of the time each social media site (where you have to spend a disproportionate amount of your time hyping up your game) usually only resulted in up to 5% of your sales. While Facebook averaged 5.4%, Google+ 4.3%, Reddit 2.4%, and Twitter 1.6%, the combined effort to troll them all probably would consume over a quarter of your time.
+So, while they are useful, I do not feel it’s useful to be overly active on them. A post somewhere and a tweet or two a day is all you really need. What’s more important is your reach (likes and followers) which you should have built up before the campaign started.
+ 
+MYTH #4: Kicktraq provides large amounts of new backers for your project
+I think KickTraq is a pleasant and welcome surprise in this analysis. There are two elements at play here: one of initial discovery and one of final commitment. Kicktraq certainly plays a role in each, but the way Kickstarter tracks these referrals can be misleading. I think it also suffers from overstated referrals, as people viewing the status of a campaign on their site that click through then finally decide to pledge are all marked as having found out about the game on their site. While Kicktraq definitely adds some better browsing and some great tracking tools, it’s not as big of an originating source as the data might lead you to believe. That’s certainly not any ding on them, I love them to death for the services they provide! My own surveys show that even with Kickstarter wiping out a lot of their referrer tags, they still are overstated in the dashboard, but only mildly. So this service is of great use in conversions, but has been overstated in initial discovery.
+ 
+MYTH #5: You must have a video to succeed
+While I still highly recommend having a video for every campaign, there where several campaigns that did not have them and still did just fine. The key (or the only time you can get away with it) is that they had products that people recognized and were already fans of, like expansions to a previous game.
+That said, there was a direct correlation between the length of a video and it’s play-through count. You need to keep that intro video under 3 minutes.
+ 
+MYTH #6: I can put my game on Kickstarter and all those people will want to buy it
+I think that’s a gross misconception about Kickstarter, that you can launch a decent-looking project and sit back for people to find you. Yes, they are a mall of sorts that will bring you some customers to browse your wares, but you are in charge of your own fate, not Kickstarter. People might see your project at first on Kickstarter, but for many of them, it’s not until they see other websites talking about it that they’ll pull the trigger on a pledge. You must make promotion your primary goal before and during your campaign.
+ 
+VIDEO GAME CHART
+As I said earlier, I don’t think I have enough data to make many statements about the Video Game side of things. But here is the chart for 4 campaigns anyway…
+
+REFERENCES:
+http://stonemaiergames.com/2012/10/16/how-to-overfund-your-kickstarter-campaign-part-1/
+http://stonemaiergames.com/2012/10/17/how-to-overfund-your-kickstarter-campaign-part-2/
+http://stonemaiergames.com/media/
+
+http://www.reddit.com/r/kickstarter/
+
+http://www.boardgamegeek.com/forum/31/boardgamegeek/press-releases
+http://www.boardgamegeek.com/forum/915012/kickstarter/general
+http://www.boardgamegeek.com/blogpost/6755/bgg-banner-ads-for-kickstarter-worth-it
+
+https://www.facebook.com/groups/ILoveKickstarter/
+https://www.facebook.com/groups/320445024722916/   (FB Game Designers Guild)
+
+https://plus.google.com/u/0/communities/111229977945579240171  (Board Games Group)
+https://plus.google.com/u/0/communities/118380390691616458392  (Crowd Funding Group)
+https://plus.google.com/u/0/communities/101196434779406961595  (Geek &amp; Sundry Group)
+ 
+
+ 
+			
+			
+	
+	
+			
+
+	
+	
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Kim Brebach on February 27, 2013
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            That is one fantastic analysis James. Congrats and thanks. I have often wondered about the ROI from social media – your advice is sage i think. The BGG advertising is a surprise – I have to admit i do check out a lot of KS campaigns from BGG adverts that look appealing.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Tyler Tinsley on March 11, 2013
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Great work! I have been planing a campaign with referral based goals “source goals” so I guess I need to make sure I have a secondary system for tracking that.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									User on March 31, 2013
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            I think that the reason why you don’t see the Dicetower in the referal data is because they mostly focus on finished products. 
+When they talk about KS projects it is mostly in a paid preview format with a link under the video. The videos are mostly watched on BGG and YouTube, not the dicetower site itself, so the referal would be BGG or youtube in this case.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Sarah on July 29, 2013
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Thanks for the good article and covering the various myths.  I’m not surprised at all that so much of the backing comes from pre-existing audiences in mailing lists.
+The Dice Tower Previews have been the deciding factor in many of the KS projects I’ve supported.  But I watch all their videos streaming through my Xbox onto my TV so I can see everything clearly.  Once I finish the video, I log directly into KS and pledge.  So Dice Tower will never be tracked in any referrals.  I think it would be more telling to analyze when a Dice Tower Preview airs and whether there is any resulting spike in backers/pledges in the next few days.
+As for social media, I think it is still important, but not something to constantly post on several times a day.  I have been told that many people look to me for KS recommendations so when I post, people check it out and several have told me that they’ve backed because of me.  However, this is going to be a very small percentage of anyone’s data.
+I think a good video is key, but having a bad video can be worse than having no video at all.  As long as there are videos somewhere on the page, especially for gameplay, I think most people are happy.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Sarah on July 30, 2013
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            To expand a little on reviewers like Dice Tower, I use them to help me make decisions, but I never find out about projects from them.  So it may be something to think about some day to ask backers not only where they found out about your project, but whether any reviews helped make the decision to back.  For me, reviews usually help me make a decision, which is why projects with no reviews do not usually get my backing.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Chad Krizan on October 10, 2013
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            I just wanted to speak to the BGG contest effectiveness (and advertising in general, really), as you’ve only run two contests so far, so I feel like your sample size was pretty small.  A couple things:
+1) The success of the contest highly depends on the game.  A gamer game with a great theme, great game play, and great graphics is obviously going to convert on BGG traffic much better than lighter fare with a less exciting theme.
+One of your contests was for Tahiti, which I wouldn’t expect to convert well based on the interests of the more alpha gamer type users that enter contests.  If I had known back in 2012 what I know now, I probably would have recommended against spending the money on that contest.  
+However, your contest for Hegemonic, I would have expected to perform well.  4X space game, attractive graphics, good-looking game play… all a good recipe for a home run if you get traffic flowing.  Looking at your Kicktraq daily pledges, it does look like the pledges trended higher during the contest span, including a spike near the beginning.  I don’t know what other things you had going, so there are obviously other factors that likely contributed as well.  That trend also doesn’t count the people that may have bookmarked it check check back in in the last days.
+In the end, it’s highly project-by-project dependent, but to say they definitely don’t pay off across the board is untrue.  For example, a very recent contest created a $2,000 spike in the pledges on the very first day of the contest during a time where the pledges were trending down every day, when no other traffic influx other than the contest was happening.  So, the contest paid for itself and then some on the very first day, not even counting any pledges that came in as a result later on.  I’m not saying this is a typical result across the board, but it definitely happens for games that are the right fit.
+2) Marketing for a successful game will perform better than marketing for a less successful game.  I know this sounds silly, but what I’m saying is that marketing will not make or break a project.  However, it will certainly enhance the sales and pay dividends on successful, appealing campaigns.
+If I were a publisher and was unsure of how the Kickstarter would perform, I would not run paid advertising for the first week or so, and see how things go with more grassroots effort such as community participation, reviews/previews, etc.  If funding is going well, I’d start advertising as I know that traffic is converting, so it’s time to turn on the traffic faucet.  If funding is cruddy, sending even more traffic would likely not do any good since your conversion rate on traffic is most likely not sufficient to capitalize on the traffic influx.
+At the end of the day, if you have a good project, you stand a good chance of at least breaking even and then some with BGG ads.  We have dozens of publishers that come back repeatedly for advertising, and I don’t think they’d keep coming back if they were losing money on the deal.  At the very worst, you’ll make some of your money back in pledges while supporting the site where a very significant portion of your backers come from.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Nigel Pyne on November 27, 2013
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Late to the day on this post but it’s still very useful. However, what would also be incredibly useful is to see the breakdown in relation to if this was the first KS for the company or not. 
+How different would the chart look for first time Kickstarter projects as opposed to a chart for those that have run a successful Kickstarter before?
+James, is this data available? Could this be done?
+Nigel
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on November 27, 2013
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            I’d say at least half the data was from people who are 1st timers.
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Nigel Pyne on November 27, 2013
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Thanks James
+
+                        
+                    
+                    
+
+
+                
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									GAME-O-GAMI on July 20, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            I agree with what the previous person said about the DiceTower. Their coverage was very beneficial to my own Kickstarter campaign, and likely other as well. But they post the Kickstarter links on BGG and YouTube instead of DiceTower.com, so that explains the lack of referal data from their website.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Patrick on September 5, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Wow, you got as much money via traffic from google+ as facebook? Is there a boardgame community there? I thought it was still a land of tumbleweed.
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on September 5, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Yeah it has a pretty active board game group there:https://plus.google.com/u/0/communities/111229977945579240171
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on September 27, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Yes there is an active board game community on Google+https://plus.google.com/u/0/communities/111229977945579240171
+
+                        
+                    
+                    
+
+
+                
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Wayne on December 28, 2014
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Some great information that will be very useful. Some of the technical details are very insightful. Awesome work!
+We will definitely heed some of this advice moving forward.
+
+                        
+                    
+                    
+
+
+                
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									David Ladyman on November 11, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            I recognize the importance of an email list before you Kickstart, but how do you generate a decent email list when you’ve never published a game before? Is it possible to buy lists, or is that a deadly sin?
+I’m on the verge of Kickstarting Star Traders (a board game); it sounds like I should wait until I have a 4-digit email list. Is that your advice?
+Thanks!
+David
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on November 11, 2015
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            The best way to gain a mailing list as a new publisher is to give away some stuff for people signing up for it. Get at least a few hundred people before you launch for sure. Nothing worse for a KS campaign than launching without already having a few hundred people lined up to back you!
+
+                        
+                    
+                    
+
+
+                
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									Mateusz Rakowski on May 31, 2016
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            The most important is mailing list, BGG and social media. That’s common sense after the article.
+However, the rest like reviews etc are more likely to support those first three. So on its own they wont have any impact but they can strengthen the power of your mailing list, bgg and social medias if used wisely.
+I got it right?
+
+                        
+                    
+                    
+
+
+                
+                
+                        
+                        
+							
+                        
+                    
+                    
+                    
+                        
+                            
+									James Mathe on May 31, 2016
+									                                
+
+                                
+									Reply ↓                                
+
+
+                            Actually people will rarely buy a KS game these days without some 3rd party REVIEW of it posted. So they are more then just more exposure- they are validation of your project.
+
+                        
+                    
+                    
+
+
+                
+
+	
+		Leave a Reply Cancel reply			
+				 
+
+ 
+ 
+  oneall.api.plugins.social_login.build('oneall_social_login_providers_5844052', {
+   'providers': ['facebook','twitter','google','linkedin'], 
+   'callback_uri': (window.location.href + ((window.location.href.split('?')[1] ? '&amp;amp;': '?') + "oa_social_login_source=comments")), 
+   'css_theme_uri': 'http://public.oneallcdn.com/css/api/socialize/themes/wordpress/default.css' 
+  });
+ Your email address will not be published. Required fields are marked *Comment Name * 
+Email * 
+Website 
+
+
+
+
+      
+  
+  
+
+
+CAPTCHA Code *
+
+
+			
+			
+	
+
+
+		
+</body>
+</html>
